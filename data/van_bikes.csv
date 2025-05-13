@@ -1,259 +1,260 @@
-id,name,latitude,longitude,timestamp,free_bikes,empty_slots,extra
-00fa94ad698dc4a9e4d708d6fd32f294,Chilco & Barclay,49.291909,-123.140713,2025-04-28T21:24:37.623693+00:00Z,4,13,"{'uid': '0092', 'renting': True, 'returning': True, 'last_updated': 1745874871, 'slots': 18, 'normal_bikes': 2, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-012d3e06901cc222b1c2cf0a2ace3a29,St George & Broadway,49.262321,-123.09306,2025-04-28T21:24:38.388601+00:00Z,4,9,"{'uid': '0248', 'renting': True, 'returning': True, 'last_updated': 1745875163, 'slots': 14, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-029a505bd4422a1afd127987757f71a6,Britannia Parking Lot,49.275882,-123.071865,2025-04-28T21:24:38.387061+00:00Z,5,9,"{'uid': '0232', 'renting': True, 'returning': True, 'last_updated': 1745875293, 'slots': 14, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-0438114d2e6b96118de69bc9775bb21e,Morton & Denman,49.28803,-123.142135,2025-04-28T21:24:37.385717+00:00Z,3,20,"{'uid': '0031', 'renting': True, 'returning': True, 'last_updated': 1745875284, 'slots': 26, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-0459b7e93703980b853cd65a9dc60596,Thornton & National,49.273777,-123.092723,2025-04-28T21:24:38.387197+00:00Z,6,8,"{'uid': '0233', 'renting': True, 'returning': True, 'last_updated': 1745874744, 'slots': 14, 'normal_bikes': 5, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-04f64fde5ba1ebde8ad78c74914adb34,Burrard & 14th,49.259469,-123.145718,2025-04-28T21:24:38.384108+00:00Z,5,13,"{'uid': '0210', 'renting': True, 'returning': True, 'last_updated': 1745873866, 'slots': 18, 'normal_bikes': 3, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-06487275cd19694152824c7c3088e8ff,Olympic Village Station,49.266314,-123.116011,2025-04-28T21:24:37.361621+00:00Z,8,11,"{'uid': '0006', 'renting': True, 'returning': True, 'last_updated': 1745875408, 'slots': 20, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-064a7b39b1dbc4bfc4cf8f454e360c57,8th & Macdonald,49.264928,-123.168068,2025-04-28T21:24:38.396535+00:00Z,9,11,"{'uid': '0452', 'renting': True, 'returning': True, 'last_updated': 1745875408, 'slots': 20, 'normal_bikes': 9, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-066ecc3584913fa035ec1417323beb80,30th & Ontario,49.243375,-123.104978,2025-04-28T21:24:38.398768+00:00Z,0,21,"{'uid': '0557', 'renting': True, 'returning': True, 'last_updated': 1745875009, 'slots': 22, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-06bdc4d55f34b2a491305534fd5defda,Lakewood & Triumph,49.283968,-123.061615,2025-04-28T21:24:38.399942+00:00Z,0,15,"{'uid': '0631', 'renting': True, 'returning': True, 'last_updated': 1745875003, 'slots': 16, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-07b13214cb69f2ec007d888450f3d6bc,13th & Cambie,49.259579,-123.114769,2025-04-28T21:24:38.393622+00:00Z,4,10,"{'uid': '0311', 'renting': True, 'returning': True, 'last_updated': 1745875357, 'slots': 14, 'normal_bikes': 3, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-085a0e120a08a80a58c0ae0ff9da565a,Arbutus & Nanton,49.247854,-123.153422,2025-04-28T21:24:38.397080+00:00Z,7,9,"{'uid': '0480', 'renting': True, 'returning': True, 'last_updated': 1745875193, 'slots': 18, 'normal_bikes': 5, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-08c7a90bf297fde8c1f1156db13987d4,14th & Fraser,49.257939,-123.089531,2025-04-28T21:24:38.392206+00:00Z,0,16,"{'uid': '0282', 'renting': True, 'returning': True, 'last_updated': 1745874883, 'slots': 16, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-0a43242bee10cd33f539af2c1bf5ecbf,15th & Victoria (Trout Lake),49.256857,-123.065646,2025-04-28T21:24:38.391788+00:00Z,6,12,"{'uid': '0278', 'renting': True, 'returning': True, 'last_updated': 1745875117, 'slots': 18, 'normal_bikes': 2, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-0b543fc4e694fe07a54dac48bb1b3390,Robson & Hornby,49.282758,-123.122092,2025-04-28T21:24:37.384660+00:00Z,13,6,"{'uid': '0019', 'renting': True, 'returning': True, 'last_updated': 1745875045, 'slots': 21, 'normal_bikes': 11, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-0c42f45e4a14957ad4a6d521d0ba8bc3,Cardero & Robson,49.289255,-123.132677,2025-04-28T21:24:37.386765+00:00Z,6,20,"{'uid': '0041', 'renting': True, 'returning': True, 'last_updated': 1745874906, 'slots': 26, 'normal_bikes': 5, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-0c9ad3e3703e5869b82619ecdf54f43e,1st & Scotia,49.2685027,-123.0975014,2025-04-28T21:24:38.382487+00:00Z,3,16,"{'uid': '0197', 'renting': True, 'returning': True, 'last_updated': 1745874479, 'slots': 20, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-0cee06d7d10f7d3162cea03d22b7beed,10th & Fraser,49.26151,-123.089413,2025-04-28T21:24:38.390610+00:00Z,1,12,"{'uid': '0260', 'renting': True, 'returning': True, 'last_updated': 1745875396, 'slots': 14, 'normal_bikes': 1, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-0cf6cd1809fa7f510812f5b052f578c4,Ontario & 5th,49.266724,-123.104824,2025-04-28T21:24:37.513937+00:00Z,12,8,"{'uid': '0073', 'renting': True, 'returning': True, 'last_updated': 1745875379, 'slots': 20, 'normal_bikes': 12, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-0d1b5c62f8d22e3650811df55596e25b,Heather & 16th,49.256845,-123.120071,2025-04-28T21:24:37.781976+00:00Z,3,9,"{'uid': '0130', 'renting': True, 'returning': True, 'last_updated': 1745875372, 'slots': 12, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-0e0aef6fabaa808b3a3cef24657257a4,Richards & Smithe,49.279259,-123.119145,2025-04-28T21:24:37.465949+00:00Z,11,4,"{'uid': '0058', 'renting': True, 'returning': True, 'last_updated': 1745875420, 'slots': 18, 'normal_bikes': 9, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-10acadd77bc21f26a7f09d8c74d4af2d,Robson & Beatty,49.277773,-123.114237,2025-04-28T21:24:37.385194+00:00Z,17,2,"{'uid': '0026', 'renting': True, 'returning': True, 'last_updated': 1745875137, 'slots': 20, 'normal_bikes': 13, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-12dd264419c06f596d1a883ed36efd9c,Maple Tree Square,49.283482,-123.103738,2025-04-28T21:24:37.383586+00:00Z,12,10,"{'uid': '0013', 'renting': True, 'returning': True, 'last_updated': 1745875057, 'slots': 25, 'normal_bikes': 12, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-13021bba7bbeca1ccd8726ca17da59e6,22nd & Main,49.25094,-123.101306,2025-04-28T21:24:38.399043+00:00Z,3,9,"{'uid': '0563', 'renting': True, 'returning': True, 'last_updated': 1745875021, 'slots': 14, 'normal_bikes': 2, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-1648ead5ea617d2cea115869d9516f5e,Carrall & Seawall,49.276294,-123.106534,2025-04-28T21:24:38.385185+00:00Z,8,10,"{'uid': '0218', 'renting': True, 'returning': True, 'last_updated': 1745875245, 'slots': 18, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-1675a77b9af656faf527b4e6de53e63b,Charles & Woodland,49.2731,-123.0732,2025-04-28T21:24:38.389423+00:00Z,13,1,"{'uid': '0253', 'renting': True, 'returning': True, 'last_updated': 1745875090, 'slots': 14, 'normal_bikes': 12, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-175a074bf65455d1633639511dc129c8,1st & Manitoba,49.27023,-123.10651,2025-04-28T21:24:38.311031+00:00Z,0,28,"{'uid': '0174', 'renting': True, 'returning': True, 'last_updated': 1745875214, 'slots': 28, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-17a3320a52bcc62161908967f8a06613,St Catherines & 7th,49.264466,-123.085183,2025-04-28T21:24:38.391202+00:00Z,7,13,"{'uid': '0266', 'renting': True, 'returning': True, 'last_updated': 1745875392, 'slots': 20, 'normal_bikes': 7, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-198810b9b0af5d229d1b6fa12c620e06,Triumph & Victoria,49.283986,-123.065264,2025-04-28T21:24:38.391925+00:00Z,11,7,"{'uid': '0280', 'renting': True, 'returning': True, 'last_updated': 1745875239, 'slots': 18, 'normal_bikes': 9, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-1bca0e944a4faf170db82793414b03ab,18th & Main,49.254667,-123.101389,2025-04-28T21:24:38.389727+00:00Z,2,13,"{'uid': '0255', 'renting': True, 'returning': True, 'last_updated': 1745875014, 'slots': 16, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-1c8f7fd6535db12cc45cfc59aa9da058,St Catherines & 10th,49.261353,-123.085333,2025-04-28T21:24:38.391060+00:00Z,0,0,"{'uid': '0265', 'renting': False, 'returning': False, 'last_updated': 0, 'slots': 0, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-1d4153659a0a0a2089078c739df6737d,Nelson & Richards,49.277844,-123.120942,2025-04-28T21:24:37.557289+00:00Z,6,10,"{'uid': '0079', 'renting': True, 'returning': True, 'last_updated': 1745875327, 'slots': 18, 'normal_bikes': 4, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-1d442ad1a71774c82688a45954e47bfd,Arbutus & 10th,49.262835,-123.152626,2025-04-28T21:24:37.540640+00:00Z,2,15,"{'uid': '0075', 'renting': True, 'returning': True, 'last_updated': 1745875295, 'slots': 18, 'normal_bikes': 1, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-1d7e73b3321ebb6713774d376247d9f9,Comox & Denman,49.288444,-123.139203,2025-04-28T21:24:37.385844+00:00Z,7,11,"{'uid': '0032', 'renting': True, 'returning': True, 'last_updated': 1745875009, 'slots': 18, 'normal_bikes': 6, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-1ef01f2f89621d51afbabaa6296e55be,Prince Edward & 14th,49.258352,-123.096337,2025-04-28T21:24:38.390094+00:00Z,2,12,"{'uid': '0257', 'renting': True, 'returning': True, 'last_updated': 1745874857, 'slots': 14, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-1ef5c4ff3f0b09422bb1597fd9d7568b,Alexander & Railway,49.283992,-123.091206,2025-04-28T21:24:38.386790+00:00Z,12,7,"{'uid': '0230', 'renting': True, 'returning': True, 'last_updated': 1745875217, 'slots': 20, 'normal_bikes': 11, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-25318ec3e06fae1397a3a2f645104149,Chilco & Beach,49.28972,-123.144028,2025-04-28T21:24:37.387165+00:00Z,8,6,"{'uid': '0047', 'renting': True, 'returning': True, 'last_updated': 1745875372, 'slots': 14, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-257715b845828e027ff35dd0f11c971e,Richards & Cordova,49.284554,-123.111031,2025-04-28T21:24:37.781366+00:00Z,0,16,"{'uid': '0124', 'renting': False, 'returning': False, 'last_updated': 0, 'slots': 16, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-261efc67071963969b3f848c66454d97,Orchard Commons,49.259999,-123.250902,2025-04-28T21:24:38.400910+00:00Z,8,15,"{'uid': '2116', 'renting': True, 'returning': True, 'last_updated': 1745875340, 'slots': 27, 'normal_bikes': 6, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-26555ebe3663991da07220d12b0f054a,Strangway Building,49.2661,-123.24568,2025-04-28T21:24:38.402002+00:00Z,4,20,"{'uid': '2154', 'renting': True, 'returning': True, 'last_updated': 1745875086, 'slots': 24, 'normal_bikes': 0, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-2681455ba2d97283998a806b14d3e95c,Yew & Broadway,49.263523,-123.155267,2025-04-28T21:24:38.397350+00:00Z,8,9,"{'uid': '0484', 'renting': True, 'returning': True, 'last_updated': 1745875225, 'slots': 18, 'normal_bikes': 7, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-277b4b4881bdb7dac73012672179def8,Woodland & 10th,49.261263,-123.073707,2025-04-28T21:24:38.388316+00:00Z,4,10,"{'uid': '0245', 'renting': True, 'returning': True, 'last_updated': 1745875017, 'slots': 14, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-2781435bde344e1b64f1bebac6bc9008,Ontario & 16th,49.256825,-123.105234,2025-04-28T21:24:37.871199+00:00Z,2,12,"{'uid': '0133', 'renting': True, 'returning': True, 'last_updated': 1745875283, 'slots': 14, 'normal_bikes': 1, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-2ca388bba54706770900ca2a9d7aa5be,14th & Alder,49.258819,-123.131317,2025-04-28T21:24:38.384451+00:00Z,4,9,"{'uid': '0211', 'renting': True, 'returning': True, 'last_updated': 1745875407, 'slots': 14, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-2f09a64507cf6257c67ca20af27339eb,Chestnut & McNicoll,49.275938,-123.145939,2025-04-28T21:24:38.262288+00:00Z,4,12,"{'uid': '0147', 'renting': True, 'returning': True, 'last_updated': 1745875316, 'slots': 16, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-2ff7eb4230654603592ab1b0780ec5e1,Dunbar & 6th,49.266636,-123.183661,2025-04-28T21:24:38.395513+00:00Z,10,6,"{'uid': '0414', 'renting': True, 'returning': True, 'last_updated': 1745874998, 'slots': 16, 'normal_bikes': 9, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-30bf49544b1c864688b78172d42cca5e,Stanley Park - Vancouver Aquarium,49.299292,-123.130281,2025-04-28T21:24:37.626175+00:00Z,13,3,"{'uid': '0101', 'renting': True, 'returning': True, 'last_updated': 1745874921, 'slots': 17, 'normal_bikes': 2, 'ebikes': 11, 'has_ebikes': True, 'virtual': False}"
-32603a87cfca71d0f7dfa3513bad69d5,Yaletown-Roundhouse Station,49.274566,-123.121817,2025-04-28T21:24:37.361329+00:00Z,8,7,"{'uid': '0004', 'renting': True, 'returning': True, 'last_updated': 1745875245, 'slots': 16, 'normal_bikes': 5, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-32f70f7ae14ba87523c6286a6c4d5c37,Smithe & Burrard,49.282503,-123.124697,2025-04-28T21:24:38.385046+00:00Z,6,11,"{'uid': '0217', 'renting': True, 'returning': True, 'last_updated': 1745875237, 'slots': 18, 'normal_bikes': 0, 'ebikes': 6, 'has_ebikes': True, 'virtual': False}"
-3367c1e1dbf73caf7c10e4c96a92f58d,Abbott & Cordova,49.282759,-123.106955,2025-04-28T21:24:37.385589+00:00Z,17,4,"{'uid': '0030', 'renting': True, 'returning': True, 'last_updated': 1745875177, 'slots': 22, 'normal_bikes': 14, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-34fd37d12eb989b49518ef53941ee3ff,Sasamat & 10th,49.264019,-123.209176,2025-04-28T21:24:38.400430+00:00Z,10,12,"{'uid': '0716', 'renting': True, 'returning': True, 'last_updated': 1745875208, 'slots': 22, 'normal_bikes': 8, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-3596b4831ee2ea7812de753b32306835,Vine & 4th,49.268339,-123.157443,2025-04-28T21:24:38.263463+00:00Z,5,13,"{'uid': '0159', 'renting': True, 'returning': True, 'last_updated': 1745875258, 'slots': 18, 'normal_bikes': 2, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-35eb539fb9298bb7e4f6759ca0256505,10th & Ontario,49.262062,-123.104656,2025-04-28T21:24:38.311184+00:00Z,5,14,"{'uid': '0176', 'renting': True, 'returning': True, 'last_updated': 1745875164, 'slots': 20, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-365da33e9ce06ea53db1173a0f8eae71,Pine & 10th,49.262822,-123.14338,2025-04-28T21:24:38.383455+00:00Z,9,11,"{'uid': '0205', 'renting': True, 'returning': True, 'last_updated': 1745875407, 'slots': 20, 'normal_bikes': 8, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-38e51688cba0d0c7f2457561f1b1849e,Canada Place,49.28725,-123.11298,2025-04-28T21:24:37.383885+00:00Z,13,12,"{'uid': '0014', 'renting': True, 'returning': True, 'last_updated': 1745875361, 'slots': 26, 'normal_bikes': 10, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-38f045e3f43f86eae42ca4c60257ade0,Wallace & 4th,49.268974,-123.190701,2025-04-28T21:24:38.394923+00:00Z,12,6,"{'uid': '0401', 'renting': True, 'returning': True, 'last_updated': 1745875036, 'slots': 18, 'normal_bikes': 12, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-3a056b29944ffab921ed3e5324a5e0d8,Denman & Bayshore,49.293264,-123.132861,2025-04-28T21:24:38.369831+00:00Z,14,8,"{'uid': '0181', 'renting': True, 'returning': True, 'last_updated': 1745875344, 'slots': 22, 'normal_bikes': 6, 'ebikes': 8, 'has_ebikes': True, 'virtual': False}"
-3a4131fa94946d93d3529136efd62413,Pacific & Richards,49.273663,-123.127075,2025-04-28T21:24:37.386900+00:00Z,4,10,"{'uid': '0044', 'renting': True, 'returning': True, 'last_updated': 1745875353, 'slots': 14, 'normal_bikes': 3, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-3aed670ccdcd94b966c0f505f8b028c7,7th &  Alder,49.265198,-123.131043,2025-04-28T21:24:38.382053+00:00Z,6,10,"{'uid': '0192', 'renting': True, 'returning': True, 'last_updated': 1745875362, 'slots': 16, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-3ea99d1c123557ec50488ffdac219926,Jervis & Robson,49.286646,-123.129232,2025-04-28T21:24:38.393475+00:00Z,14,6,"{'uid': '0310', 'renting': True, 'returning': True, 'last_updated': 1745875167, 'slots': 20, 'normal_bikes': 14, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-41a55a7e2908fbbd65175b794d26bc8d,Heather & 18th,49.255034,-123.120226,2025-04-28T21:24:38.397623+00:00Z,6,10,"{'uid': '0511', 'renting': True, 'returning': True, 'last_updated': 1745875332, 'slots': 16, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-421516af381a11f54d07fc79be68d3d3,14th & Oak,49.258761,-123.127071,2025-04-28T21:24:38.383179+00:00Z,2,12,"{'uid': '0202', 'renting': True, 'returning': True, 'last_updated': 1745875192, 'slots': 14, 'normal_bikes': 0, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-434b6f4e7fc30198f901b60fc905f609,Bute & Comox,49.283343,-123.131099,2025-04-28T21:24:37.399053+00:00Z,19,2,"{'uid': '0050', 'renting': True, 'returning': True, 'last_updated': 1745875276, 'slots': 22, 'normal_bikes': 19, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-444991edc9550be0908f032da5e3c95f,Comox & Broughton,49.285253,-123.134356,2025-04-28T21:24:37.398884+00:00Z,2,10,"{'uid': '0048', 'renting': True, 'returning': True, 'last_updated': 1745874885, 'slots': 12, 'normal_bikes': 0, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-44fc3d58831a9f2b919c7a3a1838b74a,Station & Terminal,49.272172,-123.097978,2025-04-28T21:24:38.394542+00:00Z,9,8,"{'uid': '0354', 'renting': True, 'returning': True, 'last_updated': 1745875161, 'slots': 18, 'normal_bikes': 8, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-45a4c865db23e1cad0209afa5a799de0,Stanley Park - Third Beach Parking Lot,49.302577,-123.155616,2025-04-28T21:24:37.669980+00:00Z,13,22,"{'uid': '0103', 'renting': True, 'returning': True, 'last_updated': 1745875360, 'slots': 38, 'normal_bikes': 12, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-475627e149c1a6ba73caac8d8d2fa617,Woodland & 4th,49.266751,-123.073501,2025-04-28T21:24:38.388955+00:00Z,10,4,"{'uid': '0250', 'renting': True, 'returning': True, 'last_updated': 1745875418, 'slots': 14, 'normal_bikes': 10, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-485d4d24c803cfde829ab89699fed833,8th & Ash,49.264215,-123.117772,2025-04-28T21:24:37.361886+00:00Z,9,7,"{'uid': '0008', 'renting': True, 'returning': True, 'last_updated': 1745875310, 'slots': 16, 'normal_bikes': 6, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-4990fe5772f3b73eebeec125b41e478e,Burrard & Drake,49.27808,-123.130557,2025-04-28T21:24:37.622285+00:00Z,9,13,"{'uid': '0089', 'renting': True, 'returning': True, 'last_updated': 1745874904, 'slots': 24, 'normal_bikes': 8, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-4ac99b928a91d8ccb785c9d0b805adb6,10th & Kingsway,49.261973,-123.09725,2025-04-28T21:24:38.381221+00:00Z,5,14,"{'uid': '0186', 'renting': True, 'returning': True, 'last_updated': 1745875010, 'slots': 20, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-4cb84c9a3743287019ae00ceef9a1cd3,10th & Oak,49.262255,-123.126217,2025-04-28T21:24:37.780299+00:00Z,13,5,"{'uid': '0112', 'renting': True, 'returning': True, 'last_updated': 1745875368, 'slots': 22, 'normal_bikes': 2, 'ebikes': 11, 'has_ebikes': True, 'virtual': False}"
-4e8fdc99e77ba1b70d90e124a704d0c1,Hawks & Union,49.277333,-123.087359,2025-04-28T21:24:38.385521+00:00Z,7,9,"{'uid': '0219', 'renting': True, 'returning': True, 'last_updated': 1745875053, 'slots': 16, 'normal_bikes': 7, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-4f6ebf2026d540ffe40e29a80138ad5e,Marinaside & Cooperage,49.273833,-123.114373,2025-04-28T21:24:37.465747+00:00Z,5,21,"{'uid': '0057', 'renting': True, 'returning': True, 'last_updated': 1745875240, 'slots': 26, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-5105df3dd0daf4c26980f4134f61e5cc,Alberni & Jervis,49.28763,-123.127245,2025-04-28T21:24:38.383818+00:00Z,15,5,"{'uid': '0207', 'renting': True, 'returning': True, 'last_updated': 1745875391, 'slots': 20, 'normal_bikes': 13, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-51e4d3731aebbf9c3186f310a08de6c8,7th & Arbutus,49.265605,-123.152566,2025-04-28T21:24:37.675145+00:00Z,3,13,"{'uid': '0109', 'renting': True, 'returning': True, 'last_updated': 1745875194, 'slots': 16, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-521c2122c791ed038168c3b8ff24061b,14th & Ontario,49.25849,-123.104799,2025-04-28T21:24:37.870978+00:00Z,0,16,"{'uid': '0132', 'renting': True, 'returning': True, 'last_updated': 1745874926, 'slots': 16, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-549f00f6039e8bb702a00dcca08a8ed0,King Edward & Cambie,49.249184,-123.116141,2025-04-28T21:24:38.397893+00:00Z,11,7,"{'uid': '0524', 'renting': True, 'returning': True, 'last_updated': 1745875425, 'slots': 18, 'normal_bikes': 1, 'ebikes': 10, 'has_ebikes': True, 'virtual': False}"
-5699b40126e10c2f68eefc3eb18ff3a1,1st & Fir,49.270783,-123.141564,2025-04-28T21:24:38.394060+00:00Z,20,0,"{'uid': '0315', 'renting': True, 'returning': True, 'last_updated': 1745875175, 'slots': 20, 'normal_bikes': 17, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-56fef9ba0af67a4ff3e661a8e02c0b08,Arbutus & 16th,49.257654,-123.153212,2025-04-28T21:24:37.780464+00:00Z,6,34,"{'uid': '0113', 'renting': True, 'returning': True, 'last_updated': 1745875101, 'slots': 40, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-5726de7c5646b82f7aaeafba50aee03e,War Memorial Gym,49.2665793,-123.2485487,2025-04-28T21:24:38.401844+00:00Z,6,19,"{'uid': '2143', 'renting': True, 'returning': True, 'last_updated': 1745875040, 'slots': 28, 'normal_bikes': 1, 'ebikes': 5, 'has_ebikes': True, 'virtual': False}"
-57d39a680c9407cda0fb4de6d9c55138,28th & Willow,49.246243,-123.124373,2025-04-28T21:24:38.397488+00:00Z,6,13,"{'uid': '0505', 'renting': True, 'returning': True, 'last_updated': 1745874903, 'slots': 20, 'normal_bikes': 5, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-57e928d8c30fab0ebffb3ede850f89d6,Arbutus Greenway & Fir,49.266774,-123.141135,2025-04-28T21:24:38.263002+00:00Z,6,9,"{'uid': '0153', 'renting': True, 'returning': True, 'last_updated': 1745875236, 'slots': 16, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-58345bb719f4e570ed4edc9dfa6a68a2,West Mall Swing Space Building,49.263073,-123.254307,2025-04-28T21:24:38.400573+00:00Z,14,4,"{'uid': '2114', 'renting': True, 'returning': True, 'last_updated': 1745875322, 'slots': 20, 'normal_bikes': 8, 'ebikes': 6, 'has_ebikes': True, 'virtual': False}"
-58a026f0c506caec20697a4f90538450,McLean & Pender,49.280427,-123.074082,2025-04-28T21:24:38.386243+00:00Z,13,3,"{'uid': '0225', 'renting': True, 'returning': True, 'last_updated': 1745875395, 'slots': 16, 'normal_bikes': 13, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-5a34495280727a5b50b9aa41e14e9a16,Bute & Barclay,49.284893,-123.128685,2025-04-28T21:24:38.393018+00:00Z,25,2,"{'uid': '0300', 'renting': True, 'returning': True, 'last_updated': 1745875309, 'slots': 30, 'normal_bikes': 23, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-5ba6e9725b1b0ee8cd25df976e47726b,Balsam & Cornwall,49.273011,-123.159663,2025-04-28T21:24:38.396944+00:00Z,7,11,"{'uid': '0470', 'renting': True, 'returning': True, 'last_updated': 1745875290, 'slots': 18, 'normal_bikes': 7, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-5de0fe55497681d4cc9dd25509cf51ab,Hastings & Broughton,49.290112,-123.127062,2025-04-28T21:24:37.386099+00:00Z,14,8,"{'uid': '0035', 'renting': True, 'returning': True, 'last_updated': 1745875294, 'slots': 24, 'normal_bikes': 13, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-5f45325fdd6334a4c0d3b62853b19fa6,Seymour & Cordova,49.28512,-123.11242,2025-04-28T21:24:38.393296+00:00Z,13,5,"{'uid': '0308', 'renting': True, 'returning': True, 'last_updated': 1745875334, 'slots': 19, 'normal_bikes': 12, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-5fc29e0ac42c11abb45bf12aaeb925bd,Alder & 11th,49.261742,-123.13148,2025-04-28T21:24:38.263965+00:00Z,3,10,"{'uid': '0166', 'renting': True, 'returning': True, 'last_updated': 1745875038, 'slots': 14, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-61901a235d4cfceb7f8f2c3888b98617,10th & Columbia,49.262206,-123.109091,2025-04-28T21:24:38.310640+00:00Z,8,3,"{'uid': '0172', 'renting': True, 'returning': True, 'last_updated': 1745875007, 'slots': 14, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-625a2ad202275c8e2be3ce868e85b105,Heather & 14th,49.259183,-123.120126,2025-04-28T21:24:37.672425+00:00Z,7,8,"{'uid': '0106', 'renting': True, 'returning': True, 'last_updated': 1745874984, 'slots': 16, 'normal_bikes': 7, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-62a202eb98c0a4b09ba6746f5ee94ab3,Commercial & 20th,49.252656,-123.067965,2025-04-28T21:24:38.394366+00:00Z,3,15,"{'uid': '0352', 'renting': True, 'returning': True, 'last_updated': 1745875186, 'slots': 20, 'normal_bikes': 0, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-6526a2eb3832f9ba0224d237e901ea5b,Kitsilano Beach Park,49.273355,-123.154493,2025-04-28T21:24:38.263158+00:00Z,12,23,"{'uid': '0154', 'renting': True, 'returning': True, 'last_updated': 1745875124, 'slots': 36, 'normal_bikes': 12, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-6620c54bd6b3a79800b2b67e999b24d0,Rolston & Granville,49.274232,-123.129998,2025-04-28T21:24:38.393920+00:00Z,11,11,"{'uid': '0314', 'renting': True, 'returning': True, 'last_updated': 1745875151, 'slots': 22, 'normal_bikes': 10, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-664502c28e8147615f17b8ea355f40d0,Cordova & Bute,49.289124,-123.12196,2025-04-28T21:24:37.385972+00:00Z,9,4,"{'uid': '0034', 'renting': True, 'returning': True, 'last_updated': 1745875202, 'slots': 14, 'normal_bikes': 7, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-66f873d641d448bd1572ab086665a458,12th & Yukon (City Hall),49.260599,-123.113504,2025-04-28T21:24:37.361754+00:00Z,5,10,"{'uid': '0007', 'renting': True, 'returning': True, 'last_updated': 1745875316, 'slots': 16, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-671ce9e4a92063620f772d2c57f0f3ab,Blenheim & 4th,49.268837,-123.177633,2025-04-28T21:24:38.395840+00:00Z,2,21,"{'uid': '0431', 'renting': True, 'returning': True, 'last_updated': 1745874931, 'slots': 23, 'normal_bikes': 1, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-680b1ddfd50c4397b365c9c00f09b0d1,Wylie & 2nd,49.267725,-123.11311,2025-04-28T21:24:38.261966+00:00Z,7,9,"{'uid': '0144', 'renting': True, 'returning': True, 'last_updated': 1745875204, 'slots': 18, 'normal_bikes': 6, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-686b314a6c3348efd2297d6b3dfed1a7,Thurlow & Pendrell,49.280881,-123.130672,2025-04-28T21:24:37.781622+00:00Z,9,7,"{'uid': '0126', 'renting': True, 'returning': True, 'last_updated': 1745874901, 'slots': 16, 'normal_bikes': 8, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-686c0fdb962e26e274d81fc286c010dd,14th & Cambie,49.258763,-123.115392,2025-04-28T21:24:37.513793+00:00Z,4,10,"{'uid': '0072', 'renting': True, 'returning': True, 'last_updated': 1745875038, 'slots': 14, 'normal_bikes': 3, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-6993b3dbb0758927967592ea612a2b1e,Granville & Georgia,49.282409,-123.118541,2025-04-28T21:24:37.384112+00:00Z,16,4,"{'uid': '0015', 'renting': True, 'returning': True, 'last_updated': 1745875401, 'slots': 20, 'normal_bikes': 16, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-6b1622540fe5c85d365754dd8c20bf0c,Grant & Commercial,49.271377,-123.069416,2025-04-28T21:24:38.387629+00:00Z,10,4,"{'uid': '0239', 'renting': True, 'returning': True, 'last_updated': 1745875266, 'slots': 14, 'normal_bikes': 8, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-6c0de983fb47a3439a9e3c36a3d15804,8th & Ontario,49.263837,-123.105173,2025-04-28T21:24:37.672848+00:00Z,11,5,"{'uid': '0107', 'renting': True, 'returning': True, 'last_updated': 1745875229, 'slots': 16, 'normal_bikes': 10, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-6c24a62b5ee0a2a8014eb0dfb6d40025,Hornby & Nelson,49.28062,-123.12482,2025-04-28T21:24:37.386358+00:00Z,12,5,"{'uid': '0037', 'renting': True, 'returning': True, 'last_updated': 1745875068, 'slots': 18, 'normal_bikes': 9, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-6c7fb9043e6df5a4cc50404581a947b9,šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,49.283227,-123.120523,2025-04-28T21:24:37.625770+00:00Z,15,13,"{'uid': '0099', 'renting': True, 'returning': True, 'last_updated': 1745875109, 'slots': 28, 'normal_bikes': 8, 'ebikes': 7, 'has_ebikes': True, 'virtual': False}"
-6d42fa40360f9a6b2bf641c7b8bb2862,Dunsmuir & Beatty,49.279764,-123.110154,2025-04-28T21:24:37.361477+00:00Z,22,4,"{'uid': '0005', 'renting': True, 'returning': True, 'last_updated': 1745875208, 'slots': 26, 'normal_bikes': 20, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-6ddeafa873279951630a00191333c45d,Robson & Granville,49.281506,-123.120101,2025-04-28T21:24:37.512558+00:00Z,11,12,"{'uid': '0063', 'renting': True, 'returning': True, 'last_updated': 1745874932, 'slots': 24, 'normal_bikes': 9, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-6eaa02e5bcf78db5386683d38fa2dabd,4th & Commercial,49.266969,-123.069936,2025-04-28T21:24:38.387904+00:00Z,0,13,"{'uid': '0241', 'renting': True, 'returning': True, 'last_updated': 1745875124, 'slots': 14, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-707c1c54e0278fbae5d0ae3c42a25b71,8th & Scotia,49.263635,-123.099236,2025-04-28T21:24:38.383624+00:00Z,1,8,"{'uid': '0206', 'renting': True, 'returning': True, 'last_updated': 1745875252, 'slots': 12, 'normal_bikes': 0, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-7181df50ee1d1a05559399211382b7c8,Homer & Robson (Vancouver Public Library),49.279739,-123.116251,2025-04-28T21:24:37.385066+00:00Z,9,11,"{'uid': '0025', 'renting': True, 'returning': True, 'last_updated': 1745875058, 'slots': 20, 'normal_bikes': 5, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-71c064fa93cab5f0b7306e6c923b77c4,7th & Granville,49.2653,-123.13811,2025-04-28T21:24:37.513339+00:00Z,3,11,"{'uid': '0069', 'renting': True, 'returning': True, 'last_updated': 1745875205, 'slots': 14, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-72c1049dfbbde7c24ec45c14f1a5ee85,Harwood & Bute,49.28026,-123.135244,2025-04-28T21:24:37.564569+00:00Z,17,2,"{'uid': '0088', 'renting': True, 'returning': True, 'last_updated': 1745875385, 'slots': 20, 'normal_bikes': 17, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-73f388336d879bedc962cd412eb0296e,Creekside Park North,49.2756,-123.102661,2025-04-28T21:24:38.262476+00:00Z,2,15,"{'uid': '0148', 'renting': True, 'returning': True, 'last_updated': 1745875038, 'slots': 18, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-77163e893653b88926e07fd6b9f688da,Nicola & Robson,49.2885056,-123.1312375,2025-04-28T21:24:37.624669+00:00Z,6,9,"{'uid': '0096', 'renting': True, 'returning': True, 'last_updated': 1745874914, 'slots': 18, 'normal_bikes': 4, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-797ff1725f8d2b18337de51e240ff60d,10th & Commercial,49.261403,-123.070102,2025-04-28T21:24:38.388178+00:00Z,5,19,"{'uid': '0244', 'renting': True, 'returning': True, 'last_updated': 1745875160, 'slots': 26, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-7a19c49f486d7c0c02b3685d7b240448,10th & Cambie,49.262487,-123.114397,2025-04-28T21:24:37.360952+00:00Z,27,8,"{'uid': '0001', 'renting': True, 'returning': True, 'last_updated': 1745875377, 'slots': 36, 'normal_bikes': 24, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-7b8dfa12900bcb02b47a14e4e5010ba3,Quebec & 1st,49.27033,-123.10275,2025-04-28T21:24:38.311342+00:00Z,3,8,"{'uid': '0177', 'renting': True, 'returning': True, 'last_updated': 1745875400, 'slots': 18, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-7c17f51469f1a7145455f65ef6afbd87,Lakewood & Oxford,49.285575,-123.061575,2025-04-28T21:24:38.399608+00:00Z,6,11,"{'uid': '0621', 'renting': True, 'returning': True, 'last_updated': 1745874866, 'slots': 18, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-7d231a181d21056e4ba80c4d9939fe92,Carolina & Great Northern Way,49.267266,-123.090786,2025-04-28T21:24:38.392617+00:00Z,10,5,"{'uid': '0287', 'renting': True, 'returning': True, 'last_updated': 1745875174, 'slots': 16, 'normal_bikes': 9, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-7ed043a19e6a4ece742fe747b663bdbf,Columbia & 5th,49.266476,-123.109389,2025-04-28T21:24:38.263822+00:00Z,0,18,"{'uid': '0165', 'renting': False, 'returning': False, 'last_updated': 1745601519, 'slots': 18, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-7f091b50fbbd892bf9fb869a64c47120,East Blvd & 37th,49.238105,-123.154966,2025-04-28T21:24:38.397215+00:00Z,3,15,"{'uid': '0482', 'renting': True, 'returning': True, 'last_updated': 1745875025, 'slots': 20, 'normal_bikes': 1, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-80b5c12ef21fd47275d37b2c9935249c,Trafalgar & Cornwall,49.272969,-123.164325,2025-04-28T21:24:38.396673+00:00Z,11,9,"{'uid': '0460', 'renting': True, 'returning': True, 'last_updated': 1745875317, 'slots': 20, 'normal_bikes': 11, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-826af7eee4ce28b6fa4b4f0211305792,5th & Arbutus,49.267222,-123.153157,2025-04-28T21:24:37.779987+00:00Z,6,10,"{'uid': '0110', 'renting': True, 'returning': True, 'last_updated': 1745875214, 'slots': 16, 'normal_bikes': 5, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-82c794442f54fabf9db6e392ca1fac0f,Stanley Park - Information Booth,49.297933,-123.130758,2025-04-28T21:24:38.383967+00:00Z,19,0,"{'uid': '0209', 'renting': True, 'returning': True, 'last_updated': 1745875321, 'slots': 20, 'normal_bikes': 8, 'ebikes': 11, 'has_ebikes': True, 'virtual': False}"
-838d5bb59963474ad08a6d5b156943ed,14th & Main,49.258425,-123.100792,2025-04-28T21:24:37.871376+00:00Z,1,12,"{'uid': '0134', 'renting': True, 'returning': True, 'last_updated': 1745874892, 'slots': 14, 'normal_bikes': 1, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-852212d6d52b5f00544fad01d21c7db2,Georgia & Main,49.278529,-123.100017,2025-04-28T21:24:38.382765+00:00Z,7,13,"{'uid': '0199', 'renting': True, 'returning': True, 'last_updated': 1745875324, 'slots': 20, 'normal_bikes': 7, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-8757f74d199ba5cdbcf6ffe98a993c4d,Agronomy & East Mall,49.261736,-123.24648,2025-04-28T21:24:38.401676+00:00Z,9,8,"{'uid': '2136', 'renting': True, 'returning': True, 'last_updated': 1745875143, 'slots': 18, 'normal_bikes': 3, 'ebikes': 6, 'has_ebikes': True, 'virtual': False}"
-899f59a9994302e8e1e4be01117ef707,Alma & Point Grey,49.27247,-123.185643,2025-04-28T21:24:38.395205+00:00Z,13,11,"{'uid': '0410', 'renting': True, 'returning': True, 'last_updated': 1745875192, 'slots': 24, 'normal_bikes': 11, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-89a0b49a66e54a7639ad960962148a3e,20th & Main,49.252691,-123.101289,2025-04-28T21:24:38.398907+00:00Z,5,11,"{'uid': '0561', 'renting': True, 'returning': True, 'last_updated': 1745875026, 'slots': 16, 'normal_bikes': 4, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-8c9ea7f2132376859ef34fab981d6932,Nelson & Mainland,49.276436,-123.11877,2025-04-28T21:24:37.557158+00:00Z,4,15,"{'uid': '0078', 'renting': True, 'returning': True, 'last_updated': 1745875144, 'slots': 20, 'normal_bikes': 3, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-8d2d5bb3b9142f781f2a7f441e6bad7a,Point Grey & Blenheim,49.271471,-123.17731,2025-04-28T21:24:38.395984+00:00Z,5,9,"{'uid': '0440', 'renting': True, 'returning': True, 'last_updated': 1745875349, 'slots': 14, 'normal_bikes': 4, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-8d5f47f01d7ad668419dfe9b7fe69c9a,Yukon & 6th,49.265939,-123.1129,2025-04-28T21:24:38.264242+00:00Z,13,3,"{'uid': '0171', 'renting': True, 'returning': True, 'last_updated': 1745875170, 'slots': 18, 'normal_bikes': 6, 'ebikes': 7, 'has_ebikes': True, 'virtual': False}"
-8d6f0cbf7d44d2908c8ce73ed00dbf66,Burrard & 7th,49.265336,-123.145823,2025-04-28T21:24:37.872438+00:00Z,5,11,"{'uid': '0140', 'renting': True, 'returning': True, 'last_updated': 1745874967, 'slots': 16, 'normal_bikes': 4, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-8dc684732a2a25bdf63ec0ecccee4e6e,14th & Granville,49.25894,-123.139272,2025-04-28T21:24:37.513626+00:00Z,4,9,"{'uid': '0071', 'renting': True, 'returning': True, 'last_updated': 1745875045, 'slots': 14, 'normal_bikes': 2, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-8e44a17d2fa446ca220b90c7063b42ca,Wall & Eton,49.287464,-123.060771,2025-04-28T21:24:38.399316+00:00Z,11,7,"{'uid': '0611', 'renting': True, 'returning': True, 'last_updated': 1745875415, 'slots': 18, 'normal_bikes': 9, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-8e93d0da1ee6caadf21ed9575b5fa9da,Beach & Cardero,49.283298,-123.142288,2025-04-28T21:24:37.872662+00:00Z,6,16,"{'uid': '0142', 'renting': True, 'returning': True, 'last_updated': 1745874982, 'slots': 22, 'normal_bikes': 4, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-8fb5ce1e34ad31de940481953aea452c,Cypress & 4th,49.268269,-123.147885,2025-04-28T21:24:37.540835+00:00Z,4,14,"{'uid': '0076', 'renting': True, 'returning': True, 'last_updated': 1745874821, 'slots': 18, 'normal_bikes': 3, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-90c746df94ce1a12f1f617acfe4a8ce3,Bute & Robson,49.285836,-123.127265,2025-04-28T21:24:37.386225+00:00Z,0,0,"{'uid': '0036', 'renting': False, 'returning': False, 'last_updated': 0, 'slots': 0, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-910027847876403b57f1013c16504688,Richards & Robson,49.280216,-123.117639,2025-04-28T21:24:37.781808+00:00Z,15,5,"{'uid': '0129', 'renting': True, 'returning': True, 'last_updated': 1745875403, 'slots': 20, 'normal_bikes': 11, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-91035fe1d70b65c9cb8ec4a007af7c7f,Glen & Union,49.277469,-123.081315,2025-04-28T21:24:38.385672+00:00Z,8,6,"{'uid': '0221', 'renting': True, 'returning': True, 'last_updated': 1745875386, 'slots': 14, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-9130f9aa3bb037a04c17e6f2630327e5,8th & Yukon,49.263962,-123.112621,2025-04-28T21:24:38.264104+00:00Z,14,10,"{'uid': '0170', 'renting': True, 'returning': True, 'last_updated': 1745875333, 'slots': 24, 'normal_bikes': 12, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-92c9e62c0b42adf4759c430009d3987a,1st & Chestnut,49.270721,-123.146175,2025-04-28T21:24:37.674826+00:00Z,17,9,"{'uid': '0108', 'renting': True, 'returning': True, 'last_updated': 1745875116, 'slots': 26, 'normal_bikes': 14, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-93c88a18c673e2c72a6afa93d6b89f18,10th & Main,49.262141,-123.101961,2025-04-28T21:24:37.514085+00:00Z,10,6,"{'uid': '0074', 'renting': True, 'returning': True, 'last_updated': 1745875418, 'slots': 18, 'normal_bikes': 7, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-9413725a5d3bb5ce2ad0682b07a3ffab,Georgia & Homer,49.280787,-123.115271,2025-04-28T21:24:38.393158+00:00Z,12,6,"{'uid': '0305', 'renting': True, 'returning': True, 'last_updated': 1745874913, 'slots': 18, 'normal_bikes': 8, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-9449a6a83fbf88452e384350e5ac95b7,York & Yew,49.271741,-123.155421,2025-04-28T21:24:38.383316+00:00Z,8,11,"{'uid': '0204', 'renting': True, 'returning': True, 'last_updated': 1745874991, 'slots': 20, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-95e624191c655f50e401d280cd39a9ad,Ontario & Seawall,49.271721,-123.104207,2025-04-28T21:24:37.368943+00:00Z,5,15,"{'uid': '0011', 'renting': True, 'returning': True, 'last_updated': 1745875247, 'slots': 20, 'normal_bikes': 4, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-96bf713e60bc35cc2feb5fd53a4f3471,10th & Granville,49.262598,-123.138921,2025-04-28T21:24:37.513486+00:00Z,0,13,"{'uid': '0070', 'renting': True, 'returning': True, 'last_updated': 1745875279, 'slots': 14, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-97005696a3dff3366a8410b817388990,15th & Knight,49.256496,-123.075426,2025-04-28T21:24:38.392344+00:00Z,3,11,"{'uid': '0283', 'renting': True, 'returning': True, 'last_updated': 1745875018, 'slots': 14, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-97388f4e4ea102a30345524bda465f4e,Ontario & 23rd,49.249722,-123.104991,2025-04-28T21:24:38.398631+00:00Z,2,10,"{'uid': '0554', 'renting': True, 'returning': True, 'last_updated': 1745875236, 'slots': 12, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-9763838317308a4766b83696986a157b,Dunbar & Broadway,49.264579,-123.18373,2025-04-28T21:24:38.395684+00:00Z,10,16,"{'uid': '0415', 'renting': True, 'returning': True, 'last_updated': 1745874958, 'slots': 26, 'normal_bikes': 8, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-97b25faf822b93fdbf72da1d594c0288,Carrall & Hastings,49.28117,-123.104419,2025-04-28T21:24:37.624946+00:00Z,10,7,"{'uid': '0098', 'renting': True, 'returning': True, 'last_updated': 1745875258, 'slots': 18, 'normal_bikes': 10, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-983e58671adcc67af94457d7887dbb15,8th & Commercial,49.263242,-123.070521,2025-04-28T21:24:38.388041+00:00Z,8,12,"{'uid': '0242', 'renting': True, 'returning': True, 'last_updated': 1745875353, 'slots': 20, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-988f8f74c4a12d1a30ddf2f7cd6318f8,Charleson Park,49.267628,-123.127698,2025-04-28T21:24:37.872840+00:00Z,2,11,"{'uid': '0143', 'renting': True, 'returning': True, 'last_updated': 1745875192, 'slots': 14, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-99c81f71db35911c79a86a1c5edc5604,Beach & Hornby,49.275295,-123.132585,2025-04-28T21:24:37.387035+00:00Z,2,18,"{'uid': '0045', 'renting': True, 'returning': True, 'last_updated': 1745875090, 'slots': 22, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-9a48ca226f82f52d02707b054ebc7e9e,Princess & Union,49.277615,-123.091654,2025-04-28T21:24:38.384904+00:00Z,5,7,"{'uid': '0215', 'renting': True, 'returning': True, 'last_updated': 1745875042, 'slots': 12, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-9a5478470b56379c31cf4e671584d5cc,3rd & Quebec,49.268216,-123.103168,2025-04-28T21:24:37.781011+00:00Z,5,9,"{'uid': '0119', 'renting': True, 'returning': True, 'last_updated': 1745875376, 'slots': 14, 'normal_bikes': 4, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-9aa325529164ec68b4d96c4f1c4fc7c1,Stanley Park - Second Beach South,49.294318,-123.148808,2025-04-28T21:24:37.671127+00:00Z,4,14,"{'uid': '0104', 'renting': True, 'returning': True, 'last_updated': 1745875071, 'slots': 18, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-9bee3167f10c884044cea0d36afcd1ef,6th & Carolina,49.265213,-123.090785,2025-04-28T21:24:38.392884+00:00Z,6,10,"{'uid': '0298', 'renting': True, 'returning': True, 'last_updated': 1745875347, 'slots': 16, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-9c0de696170169c26100b598219df4e9,UBC Bookstore,49.265207,-123.250139,2025-04-28T21:24:38.401367+00:00Z,3,8,"{'uid': '2134', 'renting': True, 'returning': True, 'last_updated': 1745874912, 'slots': 12, 'normal_bikes': 2, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-9c1397c06e07bf74fc049f1a0872eea0,Balaclava & Broadway,49.264483,-123.173926,2025-04-28T21:24:38.396261+00:00Z,14,4,"{'uid': '0444', 'renting': True, 'returning': True, 'last_updated': 1745875429, 'slots': 18, 'normal_bikes': 13, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-9d3123425823420514b8ad410074f02d,Expo & Carrall,49.278004,-123.105664,2025-04-28T21:24:37.465336+00:00Z,6,10,"{'uid': '0054', 'renting': True, 'returning': True, 'last_updated': 1745874283, 'slots': 16, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-9ec4163496363b31ab475cb851b57b21,Beach & Seymour,49.273568,-123.129935,2025-04-28T21:24:37.871810+00:00Z,13,3,"{'uid': '0137', 'renting': True, 'returning': True, 'last_updated': 1745875276, 'slots': 18, 'normal_bikes': 13, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-9ee3bc9e836768e3e04e4f3328dae03b,27th & Main,49.247204,-123.101549,2025-04-28T21:24:38.399180+00:00Z,7,14,"{'uid': '0565', 'renting': True, 'returning': True, 'last_updated': 1745875172, 'slots': 22, 'normal_bikes': 6, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-9f63cebac9073eac3e90be2b9a91b02b,Stanley Park - Second Beach North,49.29534,-123.150433,2025-04-28T21:24:37.626775+00:00Z,4,12,"{'uid': '0102', 'renting': True, 'returning': True, 'last_updated': 1745875027, 'slots': 16, 'normal_bikes': 3, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-a21f40838346e300063bdda3c5c04105,Keith & 6th,49.265005,-123.079481,2025-04-28T21:24:38.387468+00:00Z,8,20,"{'uid': '0236', 'renting': True, 'returning': True, 'last_updated': 1745875367, 'slots': 28, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-a25947c94149b3aeb93f6e970d63fffc,Jericho Beach,49.271221,-123.191133,2025-04-28T21:24:38.394769+00:00Z,8,17,"{'uid': '0400', 'renting': True, 'returning': True, 'last_updated': 1745875119, 'slots': 26, 'normal_bikes': 7, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-a59924f0ff3fb481a7bd8a5e9c36858f,Point Grey & Bayswater,49.271044,-123.170661,2025-04-28T21:24:38.396399+00:00Z,9,7,"{'uid': '0450', 'renting': True, 'returning': True, 'last_updated': 1745875110, 'slots': 16, 'normal_bikes': 9, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-a6455af6b689bcbad07ae2c8a3419b50,7th & Woodland,49.264251,-123.073853,2025-04-28T21:24:38.388803+00:00Z,3,9,"{'uid': '0249', 'renting': True, 'returning': True, 'last_updated': 1745875361, 'slots': 12, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-a6aec7b8c25da4c02829cd7839b8933d,Aquatic Centre,49.27821,-123.136972,2025-04-28T21:24:37.564038+00:00Z,20,20,"{'uid': '0083', 'renting': True, 'returning': True, 'last_updated': 1745875393, 'slots': 40, 'normal_bikes': 14, 'ebikes': 6, 'has_ebikes': True, 'virtual': False}"
-aa1cbf97abc3cd50515bc54633a9bb2a,Cordova & Granville,49.2856698,-123.1125432,2025-04-28T21:24:37.384798+00:00Z,12,6,"{'uid': '0021', 'renting': True, 'returning': True, 'last_updated': 1745875093, 'slots': 18, 'normal_bikes': 10, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-aa704bfba40286bd0661b64d1f75e778,Vanier Park,49.275717,-123.142564,2025-04-28T21:24:37.556983+00:00Z,17,11,"{'uid': '0077', 'renting': True, 'returning': True, 'last_updated': 1745874850, 'slots': 28, 'normal_bikes': 16, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-abfaf72456a4828a22f5bf60d3a80777,Trafalgar & Broadway,49.264326,-123.164725,2025-04-28T21:24:38.396808+00:00Z,1,15,"{'uid': '0464', 'renting': True, 'returning': True, 'last_updated': 1745874984, 'slots': 16, 'normal_bikes': 1, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-ac3b8198f03754a0afb8b6ed6d220cdd,Napier & Commercial,49.274881,-123.069323,2025-04-28T21:24:38.386926+00:00Z,4,10,"{'uid': '0231', 'renting': True, 'returning': True, 'last_updated': 1745875082, 'slots': 14, 'normal_bikes': 2, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-ace20c241ee38643c9060f290b215b9d,7th & Laurel,49.265071,-123.123864,2025-04-28T21:24:38.381908+00:00Z,2,12,"{'uid': '0191', 'renting': True, 'returning': True, 'last_updated': 1745875419, 'slots': 14, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-ae69aeab748d02e5a7d89da28a1a8511,Science World,49.273691,-123.102232,2025-04-28T21:24:38.382197+00:00Z,4,10,"{'uid': '0193', 'renting': True, 'returning': True, 'last_updated': 1745875329, 'slots': 16, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-aed214941445e0345aa3254805a9e8b8,Pender & Victoria,49.280197,-123.065859,2025-04-28T21:24:38.391341+00:00Z,5,10,"{'uid': '0272', 'renting': True, 'returning': True, 'last_updated': 1745875006, 'slots': 16, 'normal_bikes': 4, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-afacb2133f2462aba7748cc21b71c788,Cypress & 16th,49.25741,-123.148531,2025-04-28T21:24:37.780836+00:00Z,3,9,"{'uid': '0115', 'renting': True, 'returning': True, 'last_updated': 1745875244, 'slots': 12, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-b07d513f87897cff7319a0e59d7e567c,Spyglass & Seawall,49.270877,-123.115103,2025-04-28T21:24:37.362015+00:00Z,10,4,"{'uid': '0009', 'renting': True, 'returning': True, 'last_updated': 1745875391, 'slots': 14, 'normal_bikes': 10, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-b10d422b045805f1c350c47c983381e8,Keefer & Hawks,49.279235,-123.087528,2025-04-28T21:24:38.386517+00:00Z,10,6,"{'uid': '0228', 'renting': True, 'returning': True, 'last_updated': 1745875249, 'slots': 16, 'normal_bikes': 10, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-b26f83e904f3a778466ebcd763b7316a,29th & Cambie,49.245135,-123.116098,2025-04-28T21:24:38.398027+00:00Z,3,17,"{'uid': '0526', 'renting': True, 'returning': True, 'last_updated': 1745873525, 'slots': 20, 'normal_bikes': 1, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-b2c6aaf2b4fa8937bfe3941c038683aa,Victoria & 10th,49.261188,-123.066009,2025-04-28T21:24:38.391645+00:00Z,0,0,"{'uid': '0274', 'renting': False, 'returning': False, 'last_updated': 0, 'slots': 0, 'normal_bikes': 0, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-b307709b305dd04328fbbf2c6db86419,Commercial & Adanac,49.277436,-123.070427,2025-04-28T21:24:38.385968+00:00Z,7,9,"{'uid': '0223', 'renting': True, 'returning': True, 'last_updated': 1745875371, 'slots': 16, 'normal_bikes': 7, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-b30ed0719dd281867a4d39779c78b58a,Columbia & 14th,49.258902,-123.109596,2025-04-28T21:24:38.311694+00:00Z,3,10,"{'uid': '0180', 'renting': True, 'returning': True, 'last_updated': 1745874890, 'slots': 14, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-b3bb9f58d3530d33a1a09b6be9e973e0,Dunsmuir & Richards,49.282214,-123.114101,2025-04-28T21:24:37.383363+00:00Z,9,2,"{'uid': '0012', 'renting': True, 'returning': True, 'last_updated': 1745875007, 'slots': 11, 'normal_bikes': 3, 'ebikes': 6, 'has_ebikes': True, 'virtual': False}"
-b428c0e64d9b9fdb3bf8e85c95ffdf6b,Campbell & Hastings,49.280852,-123.084746,2025-04-28T21:24:38.386380+00:00Z,3,10,"{'uid': '0227', 'renting': True, 'returning': True, 'last_updated': 1745874931, 'slots': 14, 'normal_bikes': 2, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-b530d04d393d71cffb8b8b07f4a82380,Franklin & Nanaimo,49.282087,-123.056909,2025-04-28T21:24:38.400097+00:00Z,8,11,"{'uid': '0642', 'renting': True, 'returning': True, 'last_updated': 1745874203, 'slots': 20, 'normal_bikes': 5, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-b562f08327af465e4531e20226789489,Charles & Commercial,49.273103,-123.069892,2025-04-28T21:24:38.387333+00:00Z,16,6,"{'uid': '0235', 'renting': True, 'returning': True, 'last_updated': 1745874997, 'slots': 22, 'normal_bikes': 15, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-b7683a86874e6300fd89f4cc0b075f57,Beatty & Nelson,49.275679,-123.116963,2025-04-28T21:24:37.385324+00:00Z,5,7,"{'uid': '0027', 'renting': True, 'returning': True, 'last_updated': 1745875016, 'slots': 14, 'normal_bikes': 3, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-b7dd37a7dd668d6d10024b7f18acc438,Trimble & 8th,49.2658,-123.20596,2025-04-28T21:24:38.400246+00:00Z,4,16,"{'uid': '0715', 'renting': True, 'returning': True, 'last_updated': 1745875038, 'slots': 20, 'normal_bikes': 3, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-b9ab6ce009eda6006ade1d7568d9db9c,David Lam Park,49.270905,-123.126006,2025-04-28T21:24:37.871569+00:00Z,7,10,"{'uid': '0136', 'renting': True, 'returning': True, 'last_updated': 1745875184, 'slots': 18, 'normal_bikes': 7, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-b9baf685b7053de899bf3467f61c2781,Burrard & 4th,49.267859,-123.145782,2025-04-28T21:24:37.872272+00:00Z,10,6,"{'uid': '0139', 'renting': True, 'returning': True, 'last_updated': 1745875314, 'slots': 16, 'normal_bikes': 9, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-b9fd847d53fe45658fee4c46e7f562b8,Cypress & Cornwall,49.272827,-123.147744,2025-04-28T21:24:37.512864+00:00Z,10,10,"{'uid': '0065', 'renting': True, 'returning': True, 'last_updated': 1745875350, 'slots': 22, 'normal_bikes': 8, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-bb0847559ce71c93d8215c0997ea2811,Keefer & Princess,49.279369,-123.091241,2025-04-28T21:24:38.386653+00:00Z,5,8,"{'uid': '0229', 'renting': True, 'returning': True, 'last_updated': 1745875325, 'slots': 14, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-be14efdc86dedd6a8cd338e78ab4e7c7,Bidwell & Burnaby,49.28526,-123.141809,2025-04-28T21:24:37.512349+00:00Z,6,19,"{'uid': '0060', 'renting': True, 'returning': True, 'last_updated': 1745875329, 'slots': 26, 'normal_bikes': 5, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-bede4b24dae115d4cd43d2e6cc9812cb,11th & Kingsway,49.261122,-123.097571,2025-04-28T21:24:38.311489+00:00Z,10,3,"{'uid': '0179', 'renting': True, 'returning': True, 'last_updated': 1745875166, 'slots': 16, 'normal_bikes': 4, 'ebikes': 6, 'has_ebikes': True, 'virtual': False}"
-bf8408067b0e0c963f3ff526977bcef3,Pender & Burrard,49.287097,-123.118551,2025-04-28T21:24:37.384326+00:00Z,15,11,"{'uid': '0016', 'renting': True, 'returning': True, 'last_updated': 1745875094, 'slots': 26, 'normal_bikes': 12, 'ebikes': 3, 'has_ebikes': True, 'virtual': False}"
-bf96df77771ef0ed710d8e0e67917f45,Columbia & 1st,49.269969,-123.109623,2025-04-28T21:24:38.310824+00:00Z,15,8,"{'uid': '0173', 'renting': True, 'returning': True, 'last_updated': 1745875306, 'slots': 24, 'normal_bikes': 13, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-c2a9c5d0e4578b928554c86f3d2c1162,Melville & Bute,49.287782,-123.12395,2025-04-28T21:24:38.381755+00:00Z,7,7,"{'uid': '0190', 'renting': True, 'returning': True, 'last_updated': 1745875312, 'slots': 14, 'normal_bikes': 6, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-c2be5403b1c101e8032cf6696457200e,Anderson & 2nd,49.269361,-123.13782,2025-04-28T21:24:37.513003+00:00Z,10,17,"{'uid': '0066', 'renting': True, 'returning': True, 'last_updated': 1745875203, 'slots': 28, 'normal_bikes': 8, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-c2f4e05c01ea0d27934ac7dbc50cbd0c,5th & Main,49.266456,-123.100324,2025-04-28T21:24:38.382626+00:00Z,2,18,"{'uid': '0198', 'renting': True, 'returning': True, 'last_updated': 1745875079, 'slots': 20, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-c448b73d92f7f8e1daafb3b9c5fbe6a6,Alexander & Dunlevy,49.284062,-123.095097,2025-04-28T21:24:38.263663+00:00Z,7,7,"{'uid': '0161', 'renting': True, 'returning': True, 'last_updated': 1745875206, 'slots': 14, 'normal_bikes': 7, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-c47a1f62ea461ce1c9f3e2478c657df6,13th & St George,49.258817,-123.092797,2025-04-28T21:24:38.390266+00:00Z,1,15,"{'uid': '0258', 'renting': True, 'returning': True, 'last_updated': 1745875194, 'slots': 16, 'normal_bikes': 1, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-c52e51e3288a00993bdf892fdc2c2c2c,Commercial & Pandora,49.283236,-123.070443,2025-04-28T21:24:38.392481+00:00Z,9,6,"{'uid': '0285', 'renting': True, 'returning': True, 'last_updated': 1745875301, 'slots': 16, 'normal_bikes': 5, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-c64ee19c62a363019ddbaedf71df2882,Grandview & Commercial,49.263746,-123.069892,2025-04-28T21:24:38.389573+00:00Z,13,3,"{'uid': '0254', 'renting': True, 'returning': True, 'last_updated': 1745874967, 'slots': 16, 'normal_bikes': 13, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-c7b5bec0b2f4ab9a2d3f9d837725620c,Expo & Smithe,49.276115,-123.114496,2025-04-28T21:24:37.512718+00:00Z,8,6,"{'uid': '0064', 'renting': True, 'returning': True, 'last_updated': 1745875194, 'slots': 14, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-c81f75a80312c51ceaef1304beac1990,Cypress & 14th,49.25919,-123.148268,2025-04-28T21:24:37.780663+00:00Z,4,8,"{'uid': '0114', 'renting': True, 'returning': True, 'last_updated': 1745875191, 'slots': 12, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-c90ac84be9adfa8c4bbd0c1ce789ec3a,Brock Commons,49.269172,-123.25279,2025-04-28T21:24:38.401061+00:00Z,9,10,"{'uid': '2131', 'renting': True, 'returning': True, 'last_updated': 1745875337, 'slots': 20, 'normal_bikes': 4, 'ebikes': 5, 'has_ebikes': True, 'virtual': False}"
-c924f6a41b130fad49cfae47271314bc,Beach & Broughton,49.281301,-123.139108,2025-04-28T21:24:37.564237+00:00Z,3,19,"{'uid': '0084', 'renting': True, 'returning': True, 'last_updated': 1745875365, 'slots': 22, 'normal_bikes': 2, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-cadc004f0903ef45e898032143c0832f,Arbutus Greenway & 14th,49.258924,-123.152591,2025-04-28T21:24:38.262842+00:00Z,8,12,"{'uid': '0152', 'renting': True, 'returning': True, 'last_updated': 1745875407, 'slots': 20, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-cb6fddfdac7d350d25be475c7ab9e05a,Alexander & Main,49.284157,-123.099917,2025-04-28T21:24:38.262667+00:00Z,14,5,"{'uid': '0150', 'renting': True, 'returning': True, 'last_updated': 1745875226, 'slots': 20, 'normal_bikes': 14, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-cc2084e365f6f230fe26bae0b6867775,Hornby & Drake,49.277178,-123.13,2025-04-28T21:24:38.382340+00:00Z,10,10,"{'uid': '0196', 'renting': True, 'returning': True, 'last_updated': 1745875045, 'slots': 24, 'normal_bikes': 3, 'ebikes': 7, 'has_ebikes': True, 'virtual': False}"
-cc25ae4f093b33ba0afd1dbc0dd20324,Highbury & 8th,49.265442,-123.187738,2025-04-28T21:24:38.395063+00:00Z,12,7,"{'uid': '0403', 'renting': True, 'returning': True, 'last_updated': 1745875249, 'slots': 20, 'normal_bikes': 11, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-cde61c70e5556ee2fe3ceb9d958b6482,Pharmaceutical Sciences,49.26262,-123.2431,2025-04-28T21:24:38.402147+00:00Z,13,10,"{'uid': '2156', 'renting': True, 'returning': True, 'last_updated': 1745874936, 'slots': 24, 'normal_bikes': 9, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-ce5dccf5a0f190bb4567a2fd93e7971e,Haro & Denman,49.290587,-123.13625,2025-04-28T21:24:37.781175+00:00Z,9,9,"{'uid': '0122', 'renting': True, 'returning': True, 'last_updated': 1745874989, 'slots': 20, 'normal_bikes': 9, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-d02e2eaafda91425eddd24d8acd328ab,Windsor & 14th,49.257985,-123.083366,2025-04-28T21:24:38.392069+00:00Z,1,13,"{'uid': '0281', 'renting': True, 'returning': True, 'last_updated': 1745874338, 'slots': 14, 'normal_bikes': 1, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-d0782213f003ce9eb276fbceff44f1f4,Prince Edward & 16th,49.256694,-123.096579,2025-04-28T21:24:38.389874+00:00Z,2,12,"{'uid': '0256', 'renting': True, 'returning': True, 'last_updated': 1745874951, 'slots': 14, 'normal_bikes': 1, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-d085c6749a32517e1fb0d070e4128402,Cardero & Davie,49.285512,-123.1384,2025-04-28T21:24:37.386633+00:00Z,1,15,"{'uid': '0040', 'renting': True, 'returning': True, 'last_updated': 1745875172, 'slots': 18, 'normal_bikes': 1, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-d1c9556d92f329703229fb3e33899a3b,Stamps Landing,49.26893,-123.11813,2025-04-28T21:24:37.362145+00:00Z,6,8,"{'uid': '0010', 'renting': True, 'returning': True, 'last_updated': 1745875122, 'slots': 14, 'normal_bikes': 5, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-d2244f1a81d317c76cabd65e81250835,Marinaside & Davie,49.273471,-123.118016,2025-04-28T21:24:37.384517+00:00Z,9,13,"{'uid': '0017', 'renting': True, 'returning': True, 'last_updated': 1745875422, 'slots': 22, 'normal_bikes': 9, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-d3aaff4414a8c3fd5480c470f77ff68a,Adanac & McLean,49.277665,-123.073653,2025-04-28T21:24:38.385826+00:00Z,9,13,"{'uid': '0222', 'renting': True, 'returning': True, 'last_updated': 1745875162, 'slots': 22, 'normal_bikes': 9, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-d4afc7056df9fad360ed00e59cd4368e,Bute & Davie,49.282055,-123.133045,2025-04-28T21:24:38.381431+00:00Z,15,5,"{'uid': '0187', 'renting': True, 'returning': True, 'last_updated': 1745875168, 'slots': 20, 'normal_bikes': 13, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-d67640af1b3b3b3ce47169dbc9182470,Victoria & 4th,49.266725,-123.065925,2025-04-28T21:24:38.391480+00:00Z,6,10,"{'uid': '0273', 'renting': True, 'returning': True, 'last_updated': 1745874933, 'slots': 16, 'normal_bikes': 5, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-d8c4fe5e09b6f010fbaa85cc7302d66b,Heather & 29th,49.245535,-123.120496,2025-04-28T21:24:38.397758+00:00Z,6,16,"{'uid': '0516', 'renting': True, 'returning': True, 'last_updated': 1745875016, 'slots': 22, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-d91964be5355206abc053e5bb28f927f,McNicoll & Arbutus,49.276292,-123.150592,2025-04-28T21:24:38.263307+00:00Z,25,5,"{'uid': '0155', 'renting': True, 'returning': True, 'last_updated': 1745875340, 'slots': 30, 'normal_bikes': 24, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-db1e56a71a3279f51301d732ee5a055b,IK Barber Learning Centre,49.267561,-123.252261,2025-04-28T21:24:38.401208+00:00Z,10,10,"{'uid': '2132', 'renting': True, 'returning': True, 'last_updated': 1745875373, 'slots': 20, 'normal_bikes': 6, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-db51c556fe50ec1deefbc9697c70cb51,Granville Island,49.27029,-123.135025,2025-04-28T21:24:38.381602+00:00Z,9,23,"{'uid': '0189', 'renting': True, 'returning': True, 'last_updated': 1745875292, 'slots': 32, 'normal_bikes': 9, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-dcf3d5c9f1b3a46f0ef2eb2247931f89,6th & Prince Edward,49.265242,-123.095577,2025-04-28T21:24:38.392751+00:00Z,1,15,"{'uid': '0297', 'renting': True, 'returning': True, 'last_updated': 1745875232, 'slots': 16, 'normal_bikes': 0, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-df5ab349a7a85d4b10da4cc3ec65c607,Broughton & Davie,49.283749,-123.136133,2025-04-28T21:24:37.564396+00:00Z,6,13,"{'uid': '0087', 'renting': True, 'returning': True, 'last_updated': 1745875119, 'slots': 22, 'normal_bikes': 6, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-e02dd224b0177c65418bcb3f72d2f77d,Adanac & Lakewood,49.27751,-123.061429,2025-04-28T21:24:38.399454+00:00Z,2,16,"{'uid': '0617', 'renting': True, 'returning': True, 'last_updated': 1745875088, 'slots': 20, 'normal_bikes': 2, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-e0318460138ffbf4692005d5b5a9f900,Cypress & 10th,49.262944,-123.148109,2025-04-28T21:24:37.513187+00:00Z,3,10,"{'uid': '0068', 'renting': True, 'returning': True, 'last_updated': 1745874996, 'slots': 14, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-e0f30136c6ec6330f93d6c2c8463a0f4,Thunderbird Parkade,49.261655,-123.241924,2025-04-28T21:24:38.402289+00:00Z,6,12,"{'uid': '2157', 'renting': True, 'returning': True, 'last_updated': 1745875233, 'slots': 18, 'normal_bikes': 2, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-e12234b6f1299d178f34bffaca92f043,Burrard Station (Melville & Dunsmuir),49.285871,-123.12105,2025-04-28T21:24:37.361162+00:00Z,16,12,"{'uid': '0002', 'renting': True, 'returning': True, 'last_updated': 1745875268, 'slots': 28, 'normal_bikes': 11, 'ebikes': 5, 'has_ebikes': True, 'virtual': False}"
-e1432b72df561a1df34290679ec9c773,22nd & Cambie,49.251358,-123.115637,2025-04-28T21:24:38.398495+00:00Z,8,5,"{'uid': '0532', 'renting': True, 'returning': True, 'last_updated': 1745875151, 'slots': 14, 'normal_bikes': 8, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-e1ff428dadc7c32141b9d89a7b56728a,Glen & Broadway,49.262242,-123.081459,2025-04-28T21:24:38.388463+00:00Z,4,14,"{'uid': '0246', 'renting': True, 'returning': True, 'last_updated': 1745875325, 'slots': 18, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-e3d32ad772a5898c3b96c4d23d2cd542,Stanley Park - Totem Poles,49.298657,-123.121176,2025-04-28T21:24:37.671855+00:00Z,6,13,"{'uid': '0105', 'renting': True, 'returning': True, 'last_updated': 1745874889, 'slots': 20, 'normal_bikes': 4, 'ebikes': 2, 'has_ebikes': True, 'virtual': False}"
-e75e83499d3fa2e174dc2a8ffd238119,Davie & Beach,49.287528,-123.142139,2025-04-28T21:24:37.385459+00:00Z,19,11,"{'uid': '0028', 'renting': True, 'returning': True, 'last_updated': 1745875382, 'slots': 30, 'normal_bikes': 14, 'ebikes': 5, 'has_ebikes': True, 'virtual': False}"
-e7bf01431a6982f032996ad50a9e5bd7,Pender & Gore,49.280284,-123.097052,2025-04-28T21:24:38.384762+00:00Z,6,8,"{'uid': '0213', 'renting': True, 'returning': True, 'last_updated': 1745875261, 'slots': 14, 'normal_bikes': 5, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-e9b37f2d9b7b2e2e3ade73f13acb69b2,Richards & Davie,49.275683,-123.124388,2025-04-28T21:24:37.561893+00:00Z,6,7,"{'uid': '0082', 'renting': True, 'returning': True, 'last_updated': 1745874983, 'slots': 14, 'normal_bikes': 2, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-e9c4bd1fffbb1e5b058b8ea15f7307f6,Pender & Commercial,49.280332,-123.070068,2025-04-28T21:24:38.386106+00:00Z,9,6,"{'uid': '0224', 'renting': True, 'returning': True, 'last_updated': 1745875347, 'slots': 16, 'normal_bikes': 9, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-ea9485fcdce0611243474d000e4ad248,18th & Cambie,49.254818,-123.114785,2025-04-28T21:24:38.398166+00:00Z,3,21,"{'uid': '0531', 'renting': True, 'returning': True, 'last_updated': 1745875175, 'slots': 24, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-ebc551adb0fc1a684f4080e4954a9ba4,2nd & Commercial,49.268616,-123.069908,2025-04-28T21:24:38.387767+00:00Z,3,18,"{'uid': '0240', 'renting': True, 'returning': True, 'last_updated': 1745875294, 'slots': 22, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-ee620d77724c8993b0d366e7ec655b64,Wesbrook Village - Berton & Shrum,49.25478,-123.23621,2025-04-28T21:24:38.402426+00:00Z,11,14,"{'uid': '2252', 'renting': True, 'returning': True, 'last_updated': 1745875035, 'slots': 28, 'normal_bikes': 10, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-efa947b901a2cf85b58320b3ad26a2fe,Chilco & Robson,49.293257,-123.138563,2025-04-28T21:24:37.624232+00:00Z,11,9,"{'uid': '0093', 'renting': True, 'returning': True, 'last_updated': 1745874981, 'slots': 20, 'normal_bikes': 10, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-f1ca711137cde59e824167a4274df888,Keefer & Columbia,49.279342,-123.101822,2025-04-28T21:24:37.465577+00:00Z,10,4,"{'uid': '0055', 'renting': True, 'returning': True, 'last_updated': 1745875412, 'slots': 14, 'normal_bikes': 10, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-f3708906ec71348f5a42579fede36a0d,Rogers Tower,49.288682,-123.11818,2025-04-28T21:24:38.383041+00:00Z,10,8,"{'uid': '0201', 'renting': True, 'returning': True, 'last_updated': 1745875332, 'slots': 18, 'normal_bikes': 6, 'ebikes': 4, 'has_ebikes': True, 'virtual': False}"
-f387ec226c432c5c054e3d3616d90501,Woodland & Graveley,49.270684,-123.073562,2025-04-28T21:24:38.389098+00:00Z,2,9,"{'uid': '0252', 'renting': True, 'returning': True, 'last_updated': 1745875091, 'slots': 12, 'normal_bikes': 1, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-f38bac9712f3beee2149ba2a97048878,Cardero & Bayshore,49.291597,-123.129158,2025-04-28T21:24:38.382903+00:00Z,15,4,"{'uid': '0200', 'renting': True, 'returning': True, 'last_updated': 1745874857, 'slots': 20, 'normal_bikes': 10, 'ebikes': 5, 'has_ebikes': True, 'virtual': False}"
-f5e8fa1fc4252bda2f93dd27ed2d603f,Nelson & Denman,49.2890705989865,-123.138407369468,2025-04-28T21:24:38.393779+00:00Z,5,13,"{'uid': '0313', 'renting': True, 'returning': True, 'last_updated': 1745875005, 'slots': 18, 'normal_bikes': 5, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-f62bc2bfe9a0a563d5b6745ce6d962ba,8th & Fraser,49.263382,-123.088837,2025-04-28T21:24:38.390766+00:00Z,4,12,"{'uid': '0261', 'renting': True, 'returning': True, 'last_updated': 1745875020, 'slots': 16, 'normal_bikes': 4, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-f90ed7ad754ec04b7852941a480a4c77,Balaclava & 6th,49.266924,-123.173849,2025-04-28T21:24:38.396123+00:00Z,9,7,"{'uid': '0443', 'renting': True, 'returning': True, 'last_updated': 1745875011, 'slots': 16, 'normal_bikes': 9, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-f97d5bf41f35aa181288429fb52e3488,Cambie & Water,49.284605,-123.108662,2025-04-28T21:24:37.464702+00:00Z,16,15,"{'uid': '0052', 'renting': True, 'returning': True, 'last_updated': 1745875380, 'slots': 32, 'normal_bikes': 16, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-fad9ebcf614dd1a72593a34072ff76f8,Helmcken & Burrard,49.279938,-123.127478,2025-04-28T21:24:37.386495+00:00Z,8,8,"{'uid': '0039', 'renting': True, 'returning': True, 'last_updated': 1745874994, 'slots': 16, 'normal_bikes': 7, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-fbb1d30d7f30b049873f5be5688563d4,Hornby & Pender,49.28602,-123.116624,2025-04-28T21:24:37.384936+00:00Z,13,6,"{'uid': '0024', 'renting': True, 'returning': True, 'last_updated': 1745875358, 'slots': 22, 'normal_bikes': 8, 'ebikes': 5, 'has_ebikes': True, 'virtual': False}"
-fbb4c06b719596c21f91fd51ef6d4710,7th & Heather,49.265089,-123.119425,2025-04-28T21:24:37.557447+00:00Z,3,15,"{'uid': '0081', 'renting': True, 'returning': True, 'last_updated': 1745873701, 'slots': 18, 'normal_bikes': 3, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-fe0c57d04d6e682d284d501446095fc9,Union & Dunlevy,49.277595,-123.09583,2025-04-28T21:24:38.384613+00:00Z,1,13,"{'uid': '0212', 'renting': True, 'returning': True, 'last_updated': 1745875087, 'slots': 16, 'normal_bikes': 1, 'ebikes': 0, 'has_ebikes': True, 'virtual': False}"
-fedff7a263c182df94bda7307059cc52,Richards & Helmcken,49.277141,-123.122589,2025-04-28T21:24:37.872076+00:00Z,10,6,"{'uid': '0138', 'renting': True, 'returning': True, 'last_updated': 1745875356, 'slots': 18, 'normal_bikes': 2, 'ebikes': 8, 'has_ebikes': True, 'virtual': False}"
-fef69fb400210d861107a61db954d037,Keefer & Abbott,49.279821,-123.10802,2025-04-28T21:24:37.464879+00:00Z,17,11,"{'uid': '0053', 'renting': True, 'returning': True, 'last_updated': 1745875260, 'slots': 28, 'normal_bikes': 16, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
-fffd87607aaae16fbb1f71615cbe7d17,8th & Prince Edward,49.263518,-123.09568,2025-04-28T21:24:38.390915+00:00Z,1,17,"{'uid': '0262', 'renting': True, 'returning': True, 'last_updated': 1745874957, 'slots': 18, 'normal_bikes': 0, 'ebikes': 1, 'has_ebikes': True, 'virtual': False}"
+station_name,latitude,longitude,timestamp,free_bikes,empty_slots
+Chilco & Barclay,49.291909,-123.140713,2025-05-13T06:28:19.789503+00:00Z,17,1
+St George & Broadway,49.262321,-123.09306,2025-05-13T06:28:20.016492+00:00Z,4,9
+Britannia Parking Lot,49.275882,-123.071865,2025-05-13T06:28:20.014847+00:00Z,1,12
+Morton & Denman,49.28803,-123.142135,2025-05-13T06:28:19.634075+00:00Z,12,14
+Thornton & National,49.273777,-123.092723,2025-05-13T06:28:20.014996+00:00Z,10,4
+Burrard & 14th,49.259469,-123.145718,2025-05-13T06:28:19.956910+00:00Z,1,15
+Olympic Village Station,49.266314,-123.116011,2025-05-13T06:28:19.588378+00:00Z,9,11
+8th & Macdonald,49.264928,-123.168068,2025-05-13T06:28:20.221851+00:00Z,12,7
+30th & Ontario,49.243375,-123.104978,2025-05-13T06:28:20.259825+00:00Z,3,19
+Lakewood & Triumph,49.283968,-123.061615,2025-05-13T06:28:20.261154+00:00Z,7,8
+13th & Cambie,49.259579,-123.114769,2025-05-13T06:28:20.163464+00:00Z,0,14
+Arbutus & Nanton,49.247854,-123.153422,2025-05-13T06:28:20.222307+00:00Z,10,5
+14th & Fraser,49.257939,-123.089531,2025-05-13T06:28:20.096616+00:00Z,5,9
+15th & Victoria (Trout Lake),49.256857,-123.065646,2025-05-13T06:28:20.095857+00:00Z,5,13
+Robson & Hornby,49.282758,-123.122092,2025-05-13T06:28:19.603160+00:00Z,0,19
+Cardero & Robson,49.289255,-123.132677,2025-05-13T06:28:19.695590+00:00Z,11,14
+1st & Scotia,49.2685027,-123.0975014,2025-05-13T06:28:19.940080+00:00Z,8,11
+10th & Fraser,49.26151,-123.089413,2025-05-13T06:28:20.018005+00:00Z,4,10
+Ontario & 5th,49.266724,-123.104824,2025-05-13T06:28:19.781095+00:00Z,9,10
+Heather & 16th,49.256845,-123.120071,2025-05-13T06:28:19.885049+00:00Z,3,9
+Richards & Smithe,49.279259,-123.119145,2025-05-13T06:28:19.741407+00:00Z,9,8
+Robson & Beatty,49.277773,-123.114237,2025-05-13T06:28:19.632973+00:00Z,12,7
+Maple Tree Square,49.283482,-123.103738,2025-05-13T06:28:19.589543+00:00Z,18,5
+22nd & Main,49.25094,-123.101306,2025-05-13T06:28:20.260197+00:00Z,6,6
+Carrall & Seawall,49.276294,-123.106534,2025-05-13T06:28:19.986953+00:00Z,5,12
+Charles & Woodland,49.2731,-123.0732,2025-05-13T06:28:20.017079+00:00Z,13,1
+1st & Manitoba,49.27023,-123.10651,2025-05-13T06:28:19.922309+00:00Z,11,17
+St Catherines & 7th,49.264466,-123.085183,2025-05-13T06:28:20.021874+00:00Z,6,14
+Triumph & Victoria,49.283986,-123.065264,2025-05-13T06:28:20.096223+00:00Z,9,8
+18th & Main,49.254667,-123.101389,2025-05-13T06:28:20.017381+00:00Z,11,3
+St Catherines & 10th,49.261353,-123.085333,2025-05-13T06:28:20.021682+00:00Z,0,0
+Nelson & Richards,49.277844,-123.120942,2025-05-13T06:28:19.788423+00:00Z,7,9
+Arbutus & 10th,49.262835,-123.152626,2025-05-13T06:28:19.787775+00:00Z,6,12
+Comox & Denman,49.288444,-123.139203,2025-05-13T06:28:19.634386+00:00Z,9,9
+Prince Edward & 14th,49.258352,-123.096337,2025-05-13T06:28:20.017701+00:00Z,4,10
+Alexander & Railway,49.283992,-123.091206,2025-05-13T06:28:20.014537+00:00Z,16,4
+Chilco & Beach,49.28972,-123.144028,2025-05-13T06:28:19.699262+00:00Z,14,0
+Richards & Cordova,49.284554,-123.111031,2025-05-13T06:28:19.884527+00:00Z,5,5
+Orchard Commons,49.259999,-123.250902,2025-05-13T06:28:20.262387+00:00Z,2,21
+Strangway Building,49.2661,-123.24568,2025-05-13T06:28:20.263523+00:00Z,3,20
+Yew & Broadway,49.263523,-123.155267,2025-05-13T06:28:20.222610+00:00Z,15,3
+Woodland & 10th,49.261263,-123.073707,2025-05-13T06:28:20.016196+00:00Z,8,6
+Ontario & 16th,49.256825,-123.105234,2025-05-13T06:28:19.885698+00:00Z,5,8
+14th & Alder,49.258819,-123.131317,2025-05-13T06:28:19.957052+00:00Z,6,7
+Chestnut & McNicoll,49.275938,-123.145939,2025-05-13T06:28:19.920140+00:00Z,4,11
+Dunbar & 6th,49.266636,-123.183661,2025-05-13T06:28:20.220901+00:00Z,11,4
+Stanley Park - Vancouver Aquarium,49.299292,-123.130281,2025-05-13T06:28:19.790307+00:00Z,5,12
+Yaletown-Roundhouse Station,49.274566,-123.121817,2025-05-13T06:28:19.587453+00:00Z,2,13
+Smithe & Burrard,49.282503,-123.124697,2025-05-13T06:28:19.957645+00:00Z,6,9
+Abbott & Cordova,49.282759,-123.106955,2025-05-13T06:28:19.633801+00:00Z,19,2
+Sasamat & 10th,49.264019,-123.209176,2025-05-13T06:28:20.261742+00:00Z,6,15
+Vine & 4th,49.268339,-123.157443,2025-05-13T06:28:19.921208+00:00Z,2,15
+10th & Ontario,49.262062,-123.104656,2025-05-13T06:28:19.922422+00:00Z,9,10
+Pine & 10th,49.262822,-123.14338,2025-05-13T06:28:19.956331+00:00Z,12,7
+Canada Place,49.28725,-123.11298,2025-05-13T06:28:19.589713+00:00Z,9,13
+Wallace & 4th,49.268974,-123.190701,2025-05-13T06:28:20.172120+00:00Z,8,9
+Denman & Bayshore,49.293264,-123.132861,2025-05-13T06:28:19.938611+00:00Z,8,14
+Pacific & Richards,49.273663,-123.127075,2025-05-13T06:28:19.695757+00:00Z,13,0
+7th &  Alder,49.265198,-123.131043,2025-05-13T06:28:19.939569+00:00Z,12,4
+Jervis & Robson,49.286646,-123.129232,2025-05-13T06:28:20.163267+00:00Z,16,3
+Heather & 18th,49.255034,-123.120226,2025-05-13T06:28:20.224787+00:00Z,4,12
+14th & Oak,49.258761,-123.127071,2025-05-13T06:28:19.956034+00:00Z,1,13
+Bute & Comox,49.283343,-123.131099,2025-05-13T06:28:19.700911+00:00Z,4,16
+Comox & Broughton,49.285253,-123.134356,2025-05-13T06:28:19.700719+00:00Z,4,8
+Station & Terminal,49.272172,-123.097978,2025-05-13T06:28:20.171828+00:00Z,8,10
+Stanley Park - Third Beach Parking Lot,49.302577,-123.155616,2025-05-13T06:28:19.790569+00:00Z,9,29
+Woodland & 4th,49.266751,-123.073501,2025-05-13T06:28:20.016785+00:00Z,8,6
+8th & Ash,49.264215,-123.117772,2025-05-13T06:28:19.588730+00:00Z,1,15
+Burrard & Drake,49.27808,-123.130557,2025-05-13T06:28:19.789367+00:00Z,18,5
+10th & Kingsway,49.261973,-123.09725,2025-05-13T06:28:19.938801+00:00Z,0,19
+Beach & Hornby,49.27551,-123.13307,2025-05-13T06:28:19.699065+00:00Z,4,18
+10th & Oak,49.262255,-123.126217,2025-05-13T06:28:19.791644+00:00Z,0,20
+Hawks & Union,49.277333,-123.087359,2025-05-13T06:28:19.987304+00:00Z,13,3
+Marinaside & Cooperage,49.273833,-123.114373,2025-05-13T06:28:19.741270+00:00Z,13,13
+Alberni & Jervis,49.28763,-123.127245,2025-05-13T06:28:19.956626+00:00Z,11,9
+7th & Arbutus,49.265605,-123.152566,2025-05-13T06:28:19.791347+00:00Z,4,11
+14th & Ontario,49.25849,-123.104799,2025-05-13T06:28:19.885214+00:00Z,13,2
+King Edward & Cambie,49.249184,-123.116141,2025-05-13T06:28:20.225726+00:00Z,7,11
+1st & Fir,49.270783,-123.141564,2025-05-13T06:28:20.171313+00:00Z,9,11
+Arbutus & 16th,49.257654,-123.153212,2025-05-13T06:28:19.791816+00:00Z,9,31
+War Memorial Gym,49.2665793,-123.2485487,2025-05-13T06:28:20.263327+00:00Z,3,22
+28th & Willow,49.246243,-123.124373,2025-05-13T06:28:20.222805+00:00Z,8,10
+Arbutus Greenway & Fir,49.266774,-123.141135,2025-05-13T06:28:19.920805+00:00Z,5,10
+West Mall Swing Space Building,49.263073,-123.254307,2025-05-13T06:28:20.262196+00:00Z,16,4
+McLean & Pender,49.280427,-123.074082,2025-05-13T06:28:20.013812+00:00Z,12,4
+Bute & Barclay,49.284893,-123.128685,2025-05-13T06:28:20.162713+00:00Z,19,9
+Balsam & Cornwall,49.273011,-123.159663,2025-05-13T06:28:20.222193+00:00Z,7,9
+Hastings & Broughton,49.290112,-123.127062,2025-05-13T06:28:19.645519+00:00Z,19,3
+Seymour & Cordova,49.28512,-123.11242,2025-05-13T06:28:20.163105+00:00Z,12,7
+Alder & 11th,49.261742,-123.13148,2025-05-13T06:28:19.921566+00:00Z,7,6
+10th & Columbia,49.262206,-123.109091,2025-05-13T06:28:19.922077+00:00Z,0,12
+Heather & 14th,49.259183,-123.120126,2025-05-13T06:28:19.790954+00:00Z,10,6
+Commercial & 20th,49.252656,-123.067965,2025-05-13T06:28:20.171492+00:00Z,5,15
+Kitsilano Beach Park,49.273355,-123.154493,2025-05-13T06:28:19.920951+00:00Z,16,17
+Rolston & Granville,49.274232,-123.129998,2025-05-13T06:28:20.168923+00:00Z,10,12
+Cordova & Bute,49.289124,-123.12196,2025-05-13T06:28:19.634663+00:00Z,12,1
+12th & Yukon (City Hall),49.260599,-123.113504,2025-05-13T06:28:19.588562+00:00Z,2,13
+Blenheim & 4th,49.268837,-123.177633,2025-05-13T06:28:20.221184+00:00Z,13,7
+Wylie & 2nd,49.267725,-123.11311,2025-05-13T06:28:19.887150+00:00Z,6,11
+Thurlow & Pendrell,49.280881,-123.130672,2025-05-13T06:28:19.884711+00:00Z,8,7
+14th & Cambie,49.258763,-123.115392,2025-05-13T06:28:19.772692+00:00Z,1,12
+Granville & Georgia,49.282409,-123.118541,2025-05-13T06:28:19.589873+00:00Z,3,17
+Grant & Commercial,49.271377,-123.069416,2025-05-13T06:28:20.015425+00:00Z,7,7
+8th & Ontario,49.263837,-123.105173,2025-05-13T06:28:19.791092+00:00Z,7,9
+Hornby & Nelson,49.28062,-123.12482,2025-05-13T06:28:19.645899+00:00Z,10,7
+šxʷƛ̓ənəq Xwtl'e7énḵ Square - Vancouver Art Gallery,49.283227,-123.120523,2025-05-13T06:28:19.790171+00:00Z,1,25
+Dunsmuir & Beatty,49.279764,-123.110154,2025-05-13T06:28:19.588176+00:00Z,18,7
+Robson & Granville,49.281506,-123.120101,2025-05-13T06:28:19.741677+00:00Z,1,21
+4th & Commercial,49.266969,-123.069936,2025-05-13T06:28:20.015737+00:00Z,1,13
+8th & Scotia,49.263635,-123.099236,2025-05-13T06:28:19.956481+00:00Z,1,9
+Homer & Robson (Vancouver Public Library),49.279739,-123.116251,2025-05-13T06:28:19.631446+00:00Z,7,13
+7th & Granville,49.2653,-123.13811,2025-05-13T06:28:19.771975+00:00Z,0,14
+Harwood & Bute,49.28026,-123.135244,2025-05-13T06:28:19.789239+00:00Z,5,11
+Creekside Park North,49.2756,-123.102661,2025-05-13T06:28:19.920337+00:00Z,8,10
+Nicola & Robson,49.2885056,-123.1312375,2025-05-13T06:28:19.789762+00:00Z,5,13
+10th & Commercial,49.261403,-123.070102,2025-05-13T06:28:20.016047+00:00Z,13,11
+10th & Cambie,49.262487,-123.114397,2025-05-13T06:28:19.587083+00:00Z,8,26
+Quebec & 1st,49.27033,-123.10275,2025-05-13T06:28:19.922533+00:00Z,6,12
+Lakewood & Oxford,49.285575,-123.061575,2025-05-13T06:28:20.260965+00:00Z,6,12
+Carolina & Great Northern Way,49.267266,-123.090786,2025-05-13T06:28:20.141108+00:00Z,3,13
+Columbia & 5th,49.266476,-123.109389,2025-05-13T06:28:19.921451+00:00Z,5,13
+East Blvd & 37th,49.238105,-123.154966,2025-05-13T06:28:20.222431+00:00Z,3,16
+Trafalgar & Cornwall,49.272969,-123.164325,2025-05-13T06:28:20.221969+00:00Z,8,12
+5th & Arbutus,49.267222,-123.153157,2025-05-13T06:28:19.791479+00:00Z,5,11
+Stanley Park - Information Booth,49.297933,-123.130758,2025-05-13T06:28:19.956768+00:00Z,12,7
+14th & Main,49.258425,-123.100792,2025-05-13T06:28:19.885874+00:00Z,5,8
+Georgia & Main,49.278529,-123.100017,2025-05-13T06:28:19.940383+00:00Z,9,10
+Agronomy & East Mall,49.261736,-123.24648,2025-05-13T06:28:20.263140+00:00Z,4,13
+Alma & Point Grey,49.27247,-123.185643,2025-05-13T06:28:20.220728+00:00Z,9,15
+20th & Main,49.252691,-123.101289,2025-05-13T06:28:20.260005+00:00Z,1,15
+Nelson & Mainland,49.276436,-123.11877,2025-05-13T06:28:19.788269+00:00Z,16,3
+Point Grey & Blenheim,49.271471,-123.17731,2025-05-13T06:28:20.221324+00:00Z,10,3
+Yukon & 6th,49.265939,-123.1129,2025-05-13T06:28:19.921820+00:00Z,2,16
+Burrard & 7th,49.265336,-123.145823,2025-05-13T06:28:19.886676+00:00Z,1,15
+14th & Granville,49.25894,-123.139272,2025-05-13T06:28:19.772540+00:00Z,6,7
+Wall & Eton,49.287464,-123.060771,2025-05-13T06:28:20.260584+00:00Z,8,9
+Beach & Cardero,49.283298,-123.142288,2025-05-13T06:28:19.886835+00:00Z,7,12
+Cypress & 4th,49.268269,-123.147885,2025-05-13T06:28:19.787960+00:00Z,12,6
+Bute & Robson,49.285836,-123.127265,2025-05-13T06:28:19.645723+00:00Z,0,0
+Richards & Robson,49.280216,-123.117639,2025-05-13T06:28:19.884883+00:00Z,2,16
+Glen & Union,49.277469,-123.081315,2025-05-13T06:28:19.987714+00:00Z,11,3
+8th & Yukon,49.263962,-123.112621,2025-05-13T06:28:19.921681+00:00Z,7,17
+1st & Chestnut,49.270721,-123.146175,2025-05-13T06:28:19.791219+00:00Z,11,14
+10th & Main,49.262141,-123.101961,2025-05-13T06:28:19.781234+00:00Z,7,8
+Georgia & Homer,49.280787,-123.115271,2025-05-13T06:28:20.162907+00:00Z,5,12
+York & Yew,49.271741,-123.155421,2025-05-13T06:28:19.956186+00:00Z,16,2
+Ontario & Seawall,49.271721,-123.104207,2025-05-13T06:28:19.589218+00:00Z,12,8
+10th & Granville,49.262598,-123.138921,2025-05-13T06:28:19.772329+00:00Z,5,9
+15th & Knight,49.256496,-123.075426,2025-05-13T06:28:20.096815+00:00Z,10,4
+Ontario & 23rd,49.249722,-123.104991,2025-05-13T06:28:20.259622+00:00Z,4,8
+Dunbar & Broadway,49.264579,-123.18373,2025-05-13T06:28:20.221048+00:00Z,16,10
+Carrall & Hastings,49.28117,-123.104419,2025-05-13T06:28:19.790026+00:00Z,12,6
+8th & Commercial,49.263242,-123.070521,2025-05-13T06:28:20.015884+00:00Z,4,16
+Charleson Park,49.267628,-123.127698,2025-05-13T06:28:19.886993+00:00Z,10,3
+Princess & Union,49.277615,-123.091654,2025-05-13T06:28:19.957482+00:00Z,8,4
+3rd & Quebec,49.268216,-123.103168,2025-05-13T06:28:19.875801+00:00Z,13,1
+Stanley Park - Second Beach South,49.294318,-123.148808,2025-05-13T06:28:19.790699+00:00Z,6,11
+6th & Carolina,49.265213,-123.090785,2025-05-13T06:28:20.162508+00:00Z,7,9
+UBC Bookstore,49.265207,-123.250139,2025-05-13T06:28:20.262953+00:00Z,5,7
+Balaclava & Broadway,49.264483,-123.173926,2025-05-13T06:28:20.221589+00:00Z,5,13
+Expo & Carrall,49.278004,-123.105664,2025-05-13T06:28:19.740985+00:00Z,8,8
+Beach & Seymour,49.273568,-123.129935,2025-05-13T06:28:19.886199+00:00Z,16,2
+27th & Main,49.247204,-123.101549,2025-05-13T06:28:20.260391+00:00Z,1,21
+Stanley Park - Second Beach North,49.29534,-123.150433,2025-05-13T06:28:19.790439+00:00Z,3,12
+Keith & 6th,49.265005,-123.079481,2025-05-13T06:28:20.015289+00:00Z,6,20
+Jericho Beach,49.271221,-123.191133,2025-05-13T06:28:20.171983+00:00Z,18,8
+Point Grey & Bayswater,49.271044,-123.170661,2025-05-13T06:28:20.221707+00:00Z,8,8
+7th & Woodland,49.264251,-123.073853,2025-05-13T06:28:20.016638+00:00Z,3,9
+Aquatic Centre,49.27821,-123.136972,2025-05-13T06:28:19.788841+00:00Z,23,17
+Cordova & Granville,49.2856698,-123.1125432,2025-05-13T06:28:19.622983+00:00Z,10,8
+Vanier Park,49.275717,-123.142564,2025-05-13T06:28:19.788118+00:00Z,10,17
+Trafalgar & Broadway,49.264326,-123.164725,2025-05-13T06:28:20.222083+00:00Z,3,13
+Napier & Commercial,49.274881,-123.069323,2025-05-13T06:28:20.014696+00:00Z,4,10
+7th & Laurel,49.265071,-123.123864,2025-05-13T06:28:19.939404+00:00Z,7,7
+Science World,49.273691,-123.102232,2025-05-13T06:28:19.939760+00:00Z,8,8
+Pender & Victoria,49.280197,-123.065859,2025-05-13T06:28:20.022014+00:00Z,8,8
+Cypress & 16th,49.25741,-123.148531,2025-05-13T06:28:19.792320+00:00Z,4,7
+Spyglass & Seawall,49.270877,-123.115103,2025-05-13T06:28:19.588894+00:00Z,4,9
+Keefer & Hawks,49.279235,-123.087528,2025-05-13T06:28:20.014174+00:00Z,6,10
+29th & Cambie,49.245135,-123.116098,2025-05-13T06:28:20.225912+00:00Z,8,12
+Victoria & 10th,49.261188,-123.066009,2025-05-13T06:28:20.047056+00:00Z,4,8
+Commercial & Adanac,49.277436,-123.070427,2025-05-13T06:28:20.013438+00:00Z,9,7
+Columbia & 14th,49.258902,-123.109596,2025-05-13T06:28:19.922759+00:00Z,5,8
+Dunsmuir & Richards,49.282214,-123.114101,2025-05-13T06:28:19.589379+00:00Z,0,12
+Campbell & Hastings,49.280852,-123.084746,2025-05-13T06:28:20.014016+00:00Z,13,1
+Franklin & Nanaimo,49.282087,-123.056909,2025-05-13T06:28:20.261344+00:00Z,0,20
+Charles & Commercial,49.273103,-123.069892,2025-05-13T06:28:20.015143+00:00Z,8,14
+Beatty & Nelson,49.275679,-123.116963,2025-05-13T06:28:19.633232+00:00Z,9,4
+Trimble & 8th,49.2658,-123.20596,2025-05-13T06:28:20.261534+00:00Z,4,16
+David Lam Park,49.270905,-123.126006,2025-05-13T06:28:19.886039+00:00Z,10,5
+Burrard & 4th,49.267859,-123.145782,2025-05-13T06:28:19.886518+00:00Z,7,9
+Cypress & Cornwall,49.272827,-123.147744,2025-05-13T06:28:19.742030+00:00Z,19,3
+Keefer & Princess,49.279369,-123.091241,2025-05-13T06:28:20.014327+00:00Z,4,8
+Bidwell & Burnaby,49.28526,-123.141809,2025-05-13T06:28:19.741542+00:00Z,19,5
+11th & Kingsway,49.261122,-123.097571,2025-05-13T06:28:19.922646+00:00Z,1,13
+Pender & Burrard,49.287097,-123.118551,2025-05-13T06:28:19.590027+00:00Z,6,20
+Columbia & 1st,49.269969,-123.109623,2025-05-13T06:28:19.922194+00:00Z,15,8
+Melville & Bute,49.287782,-123.12395,2025-05-13T06:28:19.939256+00:00Z,10,4
+Anderson & 2nd,49.269361,-123.13782,2025-05-13T06:28:19.742405+00:00Z,15,12
+5th & Main,49.266456,-123.100324,2025-05-13T06:28:19.940231+00:00Z,14,6
+Alexander & Dunlevy,49.284062,-123.095097,2025-05-13T06:28:19.921331+00:00Z,6,8
+13th & St George,49.258817,-123.092797,2025-05-13T06:28:20.017856+00:00Z,3,13
+Commercial & Pandora,49.283236,-123.070443,2025-05-13T06:28:20.140770+00:00Z,4,12
+Grandview & Commercial,49.263746,-123.069892,2025-05-13T06:28:20.017233+00:00Z,7,9
+Expo & Smithe,49.276115,-123.114496,2025-05-13T06:28:19.741836+00:00Z,8,6
+Cypress & 14th,49.25919,-123.148268,2025-05-13T06:28:19.791956+00:00Z,7,5
+Brock Commons,49.269172,-123.25279,2025-05-13T06:28:20.262575+00:00Z,12,8
+Beach & Broughton,49.281301,-123.139108,2025-05-13T06:28:19.788971+00:00Z,14,8
+Arbutus Greenway & 14th,49.258924,-123.152591,2025-05-13T06:28:19.920654+00:00Z,3,17
+Alexander & Main,49.284157,-123.099917,2025-05-13T06:28:19.920503+00:00Z,11,8
+Hornby & Drake,49.277178,-123.13,2025-05-13T06:28:19.939926+00:00Z,7,16
+Highbury & 8th,49.265442,-123.187738,2025-05-13T06:28:20.220497+00:00Z,9,10
+Pharmaceutical Sciences,49.26262,-123.2431,2025-05-13T06:28:20.263764+00:00Z,8,13
+Haro & Denman,49.290587,-123.13625,2025-05-13T06:28:19.884305+00:00Z,19,0
+Windsor & 14th,49.257985,-123.083366,2025-05-13T06:28:20.096430+00:00Z,8,6
+Prince Edward & 16th,49.256694,-123.096579,2025-05-13T06:28:20.017542+00:00Z,1,13
+Cardero & Davie,49.285512,-123.1384,2025-05-13T06:28:19.695385+00:00Z,10,8
+Stamps Landing,49.26893,-123.11813,2025-05-13T06:28:19.589057+00:00Z,12,1
+Marinaside & Davie,49.273471,-123.118016,2025-05-13T06:28:19.597237+00:00Z,16,6
+Adanac & McLean,49.277665,-123.073653,2025-05-13T06:28:19.988074+00:00Z,17,3
+Bute & Davie,49.282055,-123.133045,2025-05-13T06:28:19.938964+00:00Z,11,5
+Victoria & 4th,49.266725,-123.065925,2025-05-13T06:28:20.046815+00:00Z,12,4
+Heather & 29th,49.245535,-123.120496,2025-05-13T06:28:20.225555+00:00Z,0,22
+McNicoll & Arbutus,49.276292,-123.150592,2025-05-13T06:28:19.921077+00:00Z,13,17
+IK Barber Learning Centre,49.267561,-123.252261,2025-05-13T06:28:20.262764+00:00Z,1,19
+Granville Island,49.27029,-123.135025,2025-05-13T06:28:19.939115+00:00Z,6,25
+6th & Prince Edward,49.265242,-123.095577,2025-05-13T06:28:20.141331+00:00Z,5,11
+Broughton & Davie,49.283749,-123.136133,2025-05-13T06:28:19.789103+00:00Z,3,16
+Adanac & Lakewood,49.27751,-123.061429,2025-05-13T06:28:20.260776+00:00Z,3,17
+Cypress & 10th,49.262944,-123.148109,2025-05-13T06:28:19.746778+00:00Z,8,6
+Thunderbird Parkade,49.261655,-123.241924,2025-05-13T06:28:20.376396+00:00Z,3,14
+Burrard Station (Melville & Dunsmuir),49.285871,-123.12105,2025-05-13T06:28:19.587271+00:00Z,7,21
+22nd & Cambie,49.251358,-123.115637,2025-05-13T06:28:20.226206+00:00Z,1,12
+Glen & Broadway,49.262242,-123.081459,2025-05-13T06:28:20.016341+00:00Z,10,8
+Stanley Park - Totem Poles,49.298657,-123.121176,2025-05-13T06:28:19.790827+00:00Z,20,0
+Davie & Beach,49.287528,-123.142139,2025-05-13T06:28:19.633523+00:00Z,0,30
+Pender & Gore,49.280284,-123.097052,2025-05-13T06:28:19.957334+00:00Z,3,11
+Richards & Davie,49.275683,-123.124388,2025-05-13T06:28:19.788708+00:00Z,2,9
+Pender & Commercial,49.280332,-123.070068,2025-05-13T06:28:20.013646+00:00Z,7,9
+18th & Cambie,49.254818,-123.114785,2025-05-13T06:28:20.226067+00:00Z,3,21
+2nd & Commercial,49.268616,-123.069908,2025-05-13T06:28:20.015591+00:00Z,11,10
+Wesbrook Village - Berton & Shrum,49.25478,-123.23621,2025-05-13T06:28:20.376703+00:00Z,21,4
+Chilco & Robson,49.293257,-123.138563,2025-05-13T06:28:19.789632+00:00Z,9,11
+Keefer & Columbia,49.279342,-123.101822,2025-05-13T06:28:19.741131+00:00Z,10,4
+Rogers Tower,49.288682,-123.11818,2025-05-13T06:28:19.955869+00:00Z,3,14
+Woodland & Graveley,49.270684,-123.073562,2025-05-13T06:28:20.016934+00:00Z,5,7
+Cardero & Bayshore,49.291597,-123.129158,2025-05-13T06:28:19.955690+00:00Z,8,12
+Nelson & Denman,49.2890705989865,-123.138407369468,2025-05-13T06:28:20.167777+00:00Z,13,5
+8th & Fraser,49.263382,-123.088837,2025-05-13T06:28:20.018335+00:00Z,2,14
+Spanish Banks East,49.27594,-123.21482,2025-05-13T06:28:20.262001+00:00Z,15,5
+Balaclava & 6th,49.266924,-123.173849,2025-05-13T06:28:20.221465+00:00Z,6,9
+Cambie & Water,49.284605,-123.108662,2025-05-13T06:28:19.740674+00:00Z,21,11
+Helmcken & Burrard,49.279938,-123.127478,2025-05-13T06:28:19.646059+00:00Z,0,16
+Hornby & Pender,49.28602,-123.116624,2025-05-13T06:28:19.623165+00:00Z,1,18
+7th & Heather,49.265089,-123.119425,2025-05-13T06:28:19.788572+00:00Z,8,10
+Union & Dunlevy,49.277595,-123.09583,2025-05-13T06:28:19.957193+00:00Z,16,0
+Richards & Helmcken,49.277141,-123.122589,2025-05-13T06:28:19.886359+00:00Z,5,10
+Keefer & Abbott,49.279821,-123.10802,2025-05-13T06:28:19.740829+00:00Z,13,14
+8th & Prince Edward,49.263518,-123.09568,2025-05-13T06:28:20.018546+00:00Z,3,15
